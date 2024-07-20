@@ -1,0 +1,253 @@
+Items: {
+	BiomeKey: {
+		DisplayName: 生态群落钥匙
+		Tooltip:
+			'''
+			用这个钥匙交换其他种类的钥匙
+			在蒸汽朋克人处购买
+			'''
+	}
+
+	BossLootSwapToken: {
+		DisplayName: Boss战利品兑换币
+		Tooltip:
+			'''
+			兑换Boss战利品
+			在哥布林工匠处购买
+			'''
+	}
+
+	CorruptionToken: {
+		DisplayName: 腐化兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败一个Boss后在腐化之地收集
+			'''
+	}
+
+	CrimsonToken: {
+		DisplayName: 猩红兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败一个Boss后在猩红之地收集
+			'''
+	}
+
+	DesertToken: {
+		DisplayName: 沙漠兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在沙漠地表收集
+			'''
+	}
+
+	DungeonToken: {
+		DisplayName: 地牢兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在地牢收集
+			'''
+	}
+
+	HardmodeFishingToken: {
+		DisplayName: 困难模式钓鱼兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在海洋收集
+			'''
+	}
+
+	HardmodeLootToken: {
+		DisplayName: 困难模式战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在困难模式之初收集
+			'''
+	}
+
+	HardmodeSpaceToken: {
+		DisplayName: 困难模式太空兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在有飞龙的地方收集
+			'''
+	}
+
+	HellToken: {
+		DisplayName: 地狱兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败骷髅王后在地狱收集
+			'''
+	}
+
+	JungleToken: {
+		DisplayName: 丛林兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在丛林收集
+			'''
+	}
+
+	LihzahrdTempleToken: {
+		DisplayName: 丛林神庙兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在丛林神庙收集
+			'''
+	}
+
+	OceanToken: {
+		DisplayName: 海洋兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在海下收集
+			'''
+	}
+
+	PostEyeSurfaceForestToken: {
+		DisplayName: 克眼后森林地表兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败克苏鲁之眼后收集
+			'''
+	}
+
+	PostGoblinsLootToken: {
+		DisplayName: 哥布林后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败哥布林军队后收集
+			'''
+	}
+
+	PostMartiansLootToken: {
+		DisplayName: 火星暴乱后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败火星暴乱后收集
+			'''
+	}
+
+	PostMechanicalBossLootToken: {
+		DisplayName: 机械三王后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败机械三王之一后收集
+			'''
+	}
+
+	PostPiratesLootToken: {
+		DisplayName: 海盗入侵后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败海盗入侵后收集
+			'''
+	}
+
+	PostPlanteraLootToken: {
+		DisplayName: 世纪之花后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败世纪之花后收集
+			'''
+	}
+
+	PostPlanteraDungeonToken: {
+		DisplayName: 世纪之花后地牢兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败世纪之花后再地牢收集
+			'''
+	}
+
+	PostSkeletronLootToken: {
+		DisplayName: 骷髅王后战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败骷髅王后收集
+			'''
+	}
+
+	PreBossLootToken: {
+		DisplayName: Boss前战利品兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在树妖到达前收集
+			'''
+	}
+
+	PreEyeSurfaceForestToken: {
+		DisplayName: 克眼前森林地表兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在击败克苏鲁之眼之前收集
+			'''
+	}
+
+	PrehardmodeFishingToken: {
+		DisplayName: 困难模式前钓鱼兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在海洋收集
+			'''
+	}
+
+	PreHardmodeSpaceToken: {
+		DisplayName: 困难模式前太空兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			击败肉山前在太空收集
+			'''
+	}
+
+	SnowToken: {
+		DisplayName: 雪原兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在地下雪原收集
+			'''
+	}
+
+	UndergroundDesertToken: {
+		DisplayName: 地下沙漠兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在地下沙漠收集
+			'''
+	}
+
+	UndergroundToken: {
+		DisplayName: 地下兑换币
+		Tooltip:
+			'''
+			用来兑换一些东西
+			在地下收集
+			'''
+	}
+}

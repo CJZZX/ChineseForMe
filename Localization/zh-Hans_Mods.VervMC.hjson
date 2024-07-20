@@ -1,0 +1,77 @@
+Items: {
+	Sword: {
+		DisplayName: 钻石剑
+		Tooltip: "'1.6攻击速度'"
+	}
+
+	Trident: {
+		Tooltip: 右键投掷
+		DisplayName: 海晶三叉戟
+	}
+
+	Mace: {
+		DisplayName: 旋风重锤
+		Tooltip: 伤害随坠落距离增加
+	}
+
+	ShortswordExposed: {
+		DisplayName: 斑驳的铜短剑
+		Tooltip: ""
+	}
+
+	ShortswordOxidized: {
+		DisplayName: 氧化的铜短剑
+		Tooltip: ""
+	}
+
+	ShortswordWheathered: {
+		DisplayName: 锈蚀的铜短剑
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	SwordProjectile.DisplayName: 钻石剑
+	TridentProjectile.DisplayName: 海晶三叉戟
+	TridentProjectilePrep.DisplayName: 海晶三叉戟
+	TridentProjectileThrow.DisplayName: 海晶三叉戟
+	MaceProjectile.DisplayName: 旋风重锤
+	ShortswordExposedProjectile.DisplayName: 斑驳的铜短剑
+	ShortswordOxidizedProjectile.DisplayName: 氧化的铜短剑
+	ShortswordWheatheredProjectile.DisplayName: 锈蚀的铜短剑
+}
+
+Buffs: {
+	TridentBuff: {
+		DisplayName: 投掷三叉戟
+		Description: 捡起你的海晶三叉戟！
+	}
+
+	MaceBuff: {
+		DisplayName: 旋风守卫
+		Description: 免疫摔落伤害
+	}
+}
+
+Tiles.SpawnerTile.MapEntry: 生成图格
+
+Configs: {
+	MCConfig: {
+		DisplayName: 我的世界模组配置
+
+		Headers: {
+			Spawners: 生物生成
+			Oxidation: 铜氧化
+		}
+
+		Spawners: {
+			Label: 调整生物生成数量
+			Tooltip: 以百分比表示
+		}
+
+		Oxidation: {
+			Label: 氧化
+			Tooltip: 允许铜氧化
+		}
+	}
+}

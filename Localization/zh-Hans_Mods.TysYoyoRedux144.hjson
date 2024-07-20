@@ -1,0 +1,140 @@
+Configs: {
+	TysYoyoReduxConfigServer: {
+		BuffsToCounterweights: {
+			Tooltip: 增加平衡锤的速度，同时给予局部免伤。平衡锤会在4-6秒后失效。(默认启用)
+			Label: 改变平衡锤
+		}
+
+		AddNewAccessories: {
+			Tooltip: 添加模组悠悠球子类饰品。(默认启用)
+			Label: 添加模组悠悠球饰品
+		}
+
+		AddNewYoyos: {
+			Tooltip: 在不同进度时添加模组悠悠球。 (默认启用)
+			Label: 添加模组悠悠球
+		}
+
+		VanillaYoyoRecipes: {
+			Tooltip: 给Red的抛球和女武神悠悠球添加配方。 (默认启用)
+			Label: 给开发者悠悠球增加配方
+		}
+
+		VanillaYoyoEffects: {
+			Tooltip: 给每个原版悠悠球添加特效。(默认启用)
+			Label: 给原版悠悠球添加特效
+		}
+
+		DisplayName: 模组配置
+	}
+}
+
+Projectiles: {
+	YeletsRazorLeafProjectile.DisplayName: 叶列茨飞叶快刀射弹
+	ValorGhostlyWispProjectile.DisplayName: 英勇幽魂射弹
+	ValkyrieYoyoFeatherProjectile.DisplayName: 女武神羽毛射弹
+	RallyAfterimageProjectile.DisplayName: 对打残影射弹
+	MalaiseBileDropletProjectile.DisplayName: 抑郁胆汁射弹
+	KrakenAbyssalTentacleProjectile.DisplayName: 克拉肯深渊触手射弹
+	HelFireFlameTorrentProjectile.DisplayName: 地狱火焰洪流射弹
+	GradientChromaticPulseProjectile.DisplayName: 渐变彩色脉冲射弹
+	EoCMiniServantProjectile.DisplayName: 克苏鲁迷你随从射弹
+	Code2PlasmaticAuraProjectile.DisplayName: 代码2血气射弹
+	Code1ElectrostaticAuraProjectile.DisplayName: 代码1异星气射弹
+	CascadeFieryExplosionProjectile.DisplayName: 喷流火山喷射射弹
+	AmarokSnowflakeProjectile.DisplayName: 冰霜雪花射弹
+	TheHiveProjectile.DisplayName: 蜂巢射弹
+	SpectrumProjectile.DisplayName: 光谱射弹
+	RavagerProjectile.DisplayName: 劫掠者射弹
+	PrismaticThrowProjectile.DisplayName: 棱镜抛射弹
+	PoltergeistProjectile.DisplayName: 吵闹鬼射弹
+	NitroProjectile.DisplayName: 氮气射弹
+	HolyThrowProjectile.DisplayName: 圣抛射弹
+	ExtraterrestrialTaserProjectile.DisplayName: 异星电击射弹
+	EnchantedYoyoProjectile.DisplayName: 附魔悠悠球射弹
+	CabalProjectile.DisplayName: 阴谋射弹
+	AvianProjectile.DisplayName: 飞鸟射弹
+	AsteroidProjectile.DisplayName: 小行星射弹
+	SpectrumSundanceProjectile.DisplayName: 光谱太阳舞射弹
+	RavagerBloodClotProjectile.DisplayName: 劫掠者血凝块射弹
+	PrismaticThrowPrismaticShardProjectile.DisplayName: 棱镜抛射碎片射弹
+	NitroCursedEmberProjectile.DisplayName: 氮气诅咒余烬射弹
+	CabalIchorRainProjectile.DisplayName: 阴谋灵液雨射弹
+}
+
+Items: {
+	Spectrum: {
+		Tooltip: ""
+		DisplayName: 光谱球
+	}
+
+	Ravager: {
+		Tooltip: ""
+		DisplayName: 劫掠球
+	}
+
+	PrismaticThrow: {
+		Tooltip: ""
+		DisplayName: 棱镜抛球
+	}
+
+	Poltergeist: {
+		Tooltip: ""
+		DisplayName: 胡闹鬼球
+	}
+
+	Nitro: {
+		Tooltip: ""
+		DisplayName: 氮气球
+	}
+
+	HolyThrow: {
+		Tooltip: ""
+		DisplayName: 圣抛球
+	}
+
+	ExtraterrestrialTaser: {
+		Tooltip: ""
+		DisplayName: 异星电击球
+	}
+
+	EnchantedYoyo: {
+		Tooltip: ""
+		DisplayName: 附魔球
+	}
+
+	Cabal: {
+		Tooltip: ""
+		DisplayName: 阴谋球
+	}
+
+	Avian: {
+		Tooltip: ""
+		DisplayName: 飞鸟球
+	}
+
+	Asteroid: {
+		Tooltip: ""
+		DisplayName: 小行星球
+	}
+
+	YoyoSideEffectsAccessory: {
+		Tooltip: ""
+		DisplayName: 悠悠球副作用配件
+	}
+
+	YoyoBearingAccessory: {
+		Tooltip: ""
+		DisplayName: 悠悠球轴承配件
+	}
+
+	MasterYoyoKit: {
+		Tooltip: ""
+		DisplayName: 大师悠悠球袋
+	}
+
+	CombinedYoyoAccessory: {
+		Tooltip: ""
+		DisplayName: 组合悠悠球配件
+	}
+}

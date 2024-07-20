@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "crLU3tjlCw3DYlvO8s4NyL6t6kXUkgv7I72BF5mO2lh+DBP+hz3lyTfnXL8vW9EGT0lUm/s9s/Z8HnwZiTLtAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\王浩\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\CFM\\CFM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\王浩\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,584 @@
+		Biomes: {
+			GoldenCity: {
+				DisplayName: 黄金城
+				TownNPCDialogueName: 黄金城
+			}
+
+			GraniteCave: {
+				DisplayName: 花岗岩洞穴
+				TownNPCDialogueName: 花岗岩洞穴
+			}
+
+			Growth: {
+				DisplayName: 繁生
+				TownNPCDialogueName: 繁生
+			}
+
+			Hive: {
+				DisplayName: 蜂巢
+				TownNPCDialogueName: 蜂巢
+			}
+
+			JungleTemple: {
+				DisplayName: 丛林神庙
+				TownNPCDialogueName: 丛林神庙
+			}
+
+			MagicalLab: {
+				DisplayName: 魔法实验室
+				TownNPCDialogueName: 魔法实验室
+			}
+
+			MarbleCave: {
+				DisplayName: 大理石洞穴
+				TownNPCDialogueName: 大理石洞穴
+			}
+
+			OceanCave: {
+				DisplayName: 海洋洞穴
+				TownNPCDialogueName: 海洋洞穴
+			}
+
+			Pyramid: {
+				DisplayName: 金字塔
+				TownNPCDialogueName: 金字塔
+			}
+
+			Vault: {
+				DisplayName: 保险库
+				TownNPCDialogueName: 保险库
+			}
+
+			EchoingHalls: {
+				DisplayName: 回响大厅
+				TownNPCDialogueName: 回响大厅
+			}
+
+			ForgottenTomb: {
+				DisplayName: 遗弃坟墓
+				TownNPCDialogueName: 遗弃坟墓
+			}
+
+			MagicalLabAscension: {
+				DisplayName: 魔法实验室的升天之地
+				TownNPCDialogueName: 魔法实验室的升天之地
+			}
+
+			Undergrowth: {
+				DisplayName: 地下荒野
+				TownNPCDialogueName: 地下荒野
+			}
+
+			AerialGarden: {
+				DisplayName: 空中花园
+				TownNPCDialogueName: 空中花园
+			}
+		}
+
+		Tiles: {
+			Hardstone.MapEntry: 硬石
+			StarOre.MapEntry: 群星残迹
+			vaultpipe.MapEntry: 保险库管道
+			LabyrinthWallLamp.MapEntry: 迷宫壁灯
+			LockedIronDoor.MapEntry: 上锁的铁门
+			RustedChest.MapEntry: 腐蚀箱
+			LabyrinthSpawner.MapEntry: 生成器
+			PiranhaSpawner.MapEntry: 生成器
+			Spitflower.MapEntry: 吐水花
+			LabyrinthAltar.MapEntry: 迷宫祭坛
+			Minecart.MapEntry: 矿车
+			Sarcophagus.MapEntry: 石棺
+			Scrapper.MapEntry: 铲土机
+			spiritlamp.MapEntry: 酒精灯
+			Dreampod.MapEntry: 梦境仓
+			Runestalk.MapEntry: 对话符文
+
+			PyramidChest: {
+				MapEntry: 金字塔箱
+				MapEntry0: 上锁的金字塔箱
+			}
+
+			PyramidPot.MapEntry: 金字塔锅
+			Cryocoral.MapEntry: 低温珊瑚
+			Luminsponge.MapEntry: 发光海绵
+			Nightglow.MapEntry: 夜光
+			Shroomcart.MapEntry: 蘑菇矿车
+			ArcaneChest.MapEntry: 奥术箱
+			SacrificialAltar.MapEntry: 牺牲祭坛
+			Eyeball.MapEntry: 邪恶之眼
+			VaultPipe.MapEntry: 保险库之眼
+		}
+
+		Buffs: {
+			ManaShieldCooldown: {
+				DisplayName: 破盾
+				Description: 你的魔法护盾需要时间恢复
+			}
+
+			RunestalkBlessing: {
+				DisplayName: 符文对话保佑
+				Description: 增加50%挖矿速度
+			}
+		}
+
+		Items: {
+			alchemybook: {
+				DisplayName: 炼金书
+				Tooltip: ""
+			}
+
+			devtool: {
+				DisplayName: 开发者工具
+				// Tooltip: ""
+			}
+
+			ManaShield: {
+				DisplayName: 魔法护盾
+				Tooltip:
+					'''
+					消耗魔力值，减少25%最终受到的伤害
+					如果魔力值耗尽，护盾将临时关闭
+					'''
+			}
+
+			RingofElements: {
+				DisplayName: 元素指环
+				Tooltip: 减益消失速度增加一倍，但不包括药水导致的减益效果。
+			}
+
+			IronKey: {
+				DisplayName: 铁钥匙
+				Tooltip: 打开上锁的铁门
+			}
+
+			NightglowBerry: {
+				DisplayName: 夜光莓
+				Tooltip: 这是一种味道鲜美、光彩夺目的水果，具有近乎神奇的功效...
+			}
+
+			PyramidKey: {
+				DisplayName: 金字塔钥匙
+				Tooltip: 解锁沙漠神庙中的箱子
+			}
+
+			CoinMold: {
+				DisplayName: 金币模具
+				Tooltip: 可使用金锭锻造金币，但使用一次后就会损坏
+			}
+
+			SalvagedMetal: {
+				DisplayName: 废旧金属
+				Tooltip: 可以在熔炉里回收成为铁锭
+			}
+
+			WandofRefinement: {
+				DisplayName: 精致魔杖
+				Tooltip: 这根魔杖的闪亮魔力让某些墙壁更好看了
+			}
+
+			EnchantedBrick: {
+				DisplayName: 奥术砖
+				// Tooltip: ""
+			}
+
+			GardenBrick: {
+				DisplayName: 花园砖
+				// Tooltip: ""
+			}
+
+			GoldenPanel: {
+				DisplayName: 黄金板
+				// Tooltip: ""
+			}
+
+			Hardstone: {
+				DisplayName: 硬石
+				Tooltip: 一个起源未知的超硬岩石
+			}
+
+			PyramidBrick: {
+				DisplayName: 金字塔砖
+				// Tooltip: ""
+			}
+
+			PyramidChest: {
+				DisplayName: 金字塔箱
+				// Tooltip: ""
+			}
+
+			StarOre: {
+				DisplayName: 群星残迹
+				Tooltip: 冰冷坚硬的星星，仍闪着振动能量产生的光
+			}
+
+			ToxicWaste: {
+				DisplayName: 有毒废物
+				// Tooltip: ""
+			}
+
+			WaterBrick: {
+				DisplayName: 水砖
+				// Tooltip: ""
+			}
+
+			EnergySpike: {
+				DisplayName: 能量斯派克
+				// Tooltip: ""
+			}
+
+			LabyrinthDoor: {
+				DisplayName: 迷宫门
+				// Tooltip: ""
+			}
+
+			LabyrinthWallLamp: {
+				DisplayName: 迷宫壁灯
+				// Tooltip: ""
+			}
+
+			NightglowSeed: {
+				DisplayName: 夜光种子
+				Tooltip: 中间有个大洞...
+			}
+
+			RustedChest: {
+				DisplayName: 腐蚀箱
+				Tooltip: 锁已经消失了
+			}
+
+			Sarcophagus: {
+				DisplayName: 石棺
+				Tooltip: 简单设计的古墓
+			}
+
+			Scrapper: {
+				DisplayName: 废料处理机
+				Tooltip: ""
+			}
+
+			sprout: {
+				DisplayName: 萌芽
+				Tooltip: ""
+			}
+
+			GardenBrickWall: {
+				DisplayName: 黄金砖墙
+				// Tooltip: ""
+			}
+
+			GoldenPanelWall: {
+				DisplayName: 黄金板墙
+				// Tooltip: ""
+			}
+
+			PyramidBrickWall: {
+				DisplayName: 金字塔砖墙
+				// Tooltip: ""
+			}
+
+			WaterBrickWall: {
+				DisplayName: 水砖墙
+				// Tooltip: ""
+			}
+
+			LuminousHook: {
+				DisplayName: 荧光钩
+				Tooltip: 提供光亮
+			}
+
+			ArmCannon: {
+				DisplayName: 臂炮
+				// Tooltip: ""
+			}
+
+			CursedFlamethrower: {
+				DisplayName: 诅咒火焰喷射器
+				// Tooltip: ""
+			}
+
+			SpiritLance: {
+				DisplayName: 精神长矛
+				Tooltip: 造成伤害时恢复法力值，但法力值满后会明显变弱
+			}
+
+			VintageSniper: {
+				DisplayName: 复古狙击手
+				Tooltip:
+					'''
+					发射威力强大的高速子弹
+					右键放大
+					'''
+			}
+
+			SummonCrown: {
+				DisplayName: 守卫王冠
+				Tooltip: 根据佩戴者的伤势，仆从的伤害最多可增加25%。
+			}
+
+			TombBrick: {
+				DisplayName: 墓砖
+				// Tooltip: ""
+			}
+
+			TombBrickWall: {
+				DisplayName: 墓砖墙
+				// Tooltip: ""
+			}
+
+			EnchantedBrickWall: {
+				DisplayName: 奥术砖墙
+				// Tooltip: ""
+			}
+
+			ScientistNotes1: {
+				DisplayName: 研究笔记：准备
+				Tooltip:
+					'''
+					第一周，第一天
+					-
+					许多年前，我的家乡推出了一个充满野心的项目，承诺能将我们对科学的理解扩展到前所未有的领域。
+					我和我的同事是城里最伟大的科学家，有资格参加这个项目。最近设施建设完工，所以我们被调到这里研究。
+					今天安顿下来，明天就可以开始工作。
+					'''
+			}
+
+			ScientistNotes2: {
+				DisplayName: 研究笔记：任务
+				Tooltip:
+					'''
+					第一周，第二天
+					-
+					我们的首要工作是试验炼金混合物，然而城市周围的土地资源非常匮乏，不适合进行这种研究，
+					所以我们现在负责研究改进治疗和增强体质的药物。我们每一周都要给城里汇报工作成果 ，
+					下次汇报是六天之后。我们希望能尽快取得有用的成果来让项目进行下去。
+					'''
+			}
+
+			ScientistNotes3: {
+				DisplayName: 研究笔记：共生
+				Tooltip:
+					'''
+					第一周，第五天
+					-
+					魔法增强组织修复剂，民间常说“治疗药水”，是一种强大的药物，他能引导普通蘑菇的生命能量，
+					迅速愈合伤口。我们近期的研究表明，发光蘑菇和普通蘑菇之间存在共生关系，把他们结合起来
+					就能提供超强修复动力。因而创造出一种新的治疗物质，其强度是前者的两倍，同时没有任何副作用。
+					今天我们已经创造了历史，而且可以保证这个项目能长久进行下去。政府肯定会非常满意，不过我们还有很多工作要做。
+					'''
+			}
+
+			ScientistNotes4: {
+				DisplayName: 研究笔记：感知
+				Tooltip:
+					'''
+					第二周，第四天
+					-
+					随着炼金工作有效进行，我们有足够的时间广泛研究魔法。结果很有意思，新法术里最令人好奇的是为物体注入基本智慧的能力。
+					到目前为止，我们一直在练习和完善这个法术，不过现在要开始第一次正式实验。我们已经编写了一些能接受法术的书籍，
+					如果方法正确，我们应该能使用储存在其中的各种法术。如果实验成功，那么这些书会非常有用，因为它们无限的魔法潜能
+					几乎可以做任何事情。
+					'''
+			}
+
+			ScientistNotes5: {
+				DisplayName: 研究笔记：创世纪
+				Tooltip:
+					'''
+					第三周，第二天
+					-
+					我们城市附近的腐化继续蔓延，但我们终于获得了受感染的组织样本，这对我们的研究至关重要。我们发现，腐化是由一种
+					源自致病细菌释放的有害毒素引起的。通过研究它的基因信息，我们成功造出了重组细菌，这种细菌含有一种经过改良的毒素，
+					不仅对细胞无害，还能专门消灭任何腐败细菌。利用我们新发现的魔法知识，我们可以让我们的细菌具有一些有用的潜在作用。
+					我们现在创造的可能是已知历史上最伟大的科学和魔法作品，有人开始称之为 “神圣”。
+					'''
+			}
+
+			ScientistNotes6: {
+				DisplayName: 研究笔记：消失
+				Tooltip:
+					'''
+					第四周，第一天
+					-
+					今天本该汇报我们的研究成果，但我们还没有收到市政府的任何消息。虽然不知道那里发生了什么事，但时间已经也太久了，
+					肯定有很严重事情发生了。如果事情迟迟没有解决，那我们就得不到任何补给了，所以我们需要开始自力更生。
+					我们应该研究创造一种可持续的食物来源。
+					'''
+			}
+
+			ScientistNotes7: {
+				DisplayName: 研究笔记：生存
+				Tooltip:
+					'''
+					第四周，第二天
+					-
+					目前，我们的食物足够再坚持9天，如果仔细管理，大约可以坚持18天。我们可以利用现有的粮食开始农业生产，
+					但在收获粮食之前，我们就会饿死。所以着我们需要利用基因工程来增加作物的营养和生长速度。紧靠设施上方
+					有一个宽敞的洞穴，似乎是种植种子的好地方。
+					'''
+			}
+
+			ArcaneChest: {
+				DisplayName: 奥术箱
+				// Tooltip: ""
+			}
+
+			SacrificialAltar: {
+				DisplayName: 牺牲祭坛
+				// Tooltip: ""
+			}
+
+			VaultPlating: {
+				DisplayName: 保险库护板
+				// Tooltip: ""
+			}
+
+			VaultWall: {
+				DisplayName: 保险库墙
+				// Tooltip: ""
+			}
+
+			HeavyAlloy: {
+				DisplayName: 重型合金
+				// Tooltip: ""
+			}
+
+			VaultPlatform: {
+				DisplayName: 保险库平台
+				// Tooltip: ""
+			}
+
+			VaultPipe: {
+				DisplayName: 保险库管道
+				// Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			HoneySlime.DisplayName: 蜂蜜史莱姆
+			IlluminantDagger.DisplayName: 发光匕首
+			spellbookhealing.DisplayName: 治愈魔法书
+			TomeofFrost.DisplayName: 霜冻魔法书
+			TomeofInferno.DisplayName: 炼狱魔法书
+			Ward.DisplayName: 守卫
+			Blaster.DisplayName: 爆破机器人
+			Flamer.DisplayName: 火焰机器人
+			Gunner.DisplayName: 枪械机器人
+			Icer.DisplayName: 冰冻机器人
+			Shocker.DisplayName: 放电机器人
+			Arcanist.DisplayName: 附魔师
+			TomeofMending.DisplayName: 修补魔法书
+		}
+
+		Projectiles: {
+			burn.DisplayName: 烈火
+			cursedburn.DisplayName: 诅咒烈火
+			cursedflamejet.DisplayName: 诅咒喷射烈焰
+			deathbolt.DisplayName: 死亡之箭
+			magicshieldhit.DisplayName: 魔法护盾撞击
+			MazeGuardianTeleport.DisplayName: 迷宫护卫传送
+			blastermissile.DisplayName: 烈焰导弹
+			fireball.DisplayName: 火球
+			FireBolt.DisplayName: 火焰之箭
+			iceball.DisplayName: 冰球
+			IceSpike.DisplayName: 寒冰之箭
+			PoisonSpit.DisplayName: 毒液喷溅
+			frostburn.DisplayName: 霜燃
+			LuminousHook.DisplayName: 荧光钩
+			ichorjet.DisplayName: 脓液喷射
+			shockbolt.DisplayName: 电击之箭
+			uraniumbullet.DisplayName: 铀弹
+			flamejet.DisplayName: 烈焰喷射
+			minigunholdout.DisplayName: 迷你顽固枪
+			pulsebolt.DisplayName: 脉冲之箭
+			SpiritLanceHoldout.DisplayName: 顽固精神长矛
+			AetherButterfly.DisplayName: 以太蝴蝶
+			FallingDreampod.DisplayName: 坠落梦境仓
+			FallingEyeball.DisplayName: 坠落眼球
+		}
+
+		Configs: {
+			Client: {
+				DisplayName: 客户端设置
+
+				Headers: {
+					Worldgen: 世界生成
+					Audio: 音频
+				}
+
+				TerrainAmplitude: {
+					Label: "[i:3] 地势起伏"
+					Tooltip: 直接调控表层地形高度变化。
+				}
+
+				OreFrequency: {
+					Label: "[i:11] 矿物频度"
+					Tooltip: 直接调控新世界矿物生成数量。
+				}
+
+				TrapFrequency: {
+					Label: "[i:539] 陷阱频度"
+					Tooltip: 直接调控新世界陷阱生成数量。
+				}
+
+				CloudDensity: {
+					Label: "[i:751] 云朵密度"
+					Tooltip: 直接调控新世界云朵生成数量。
+				}
+
+				CustomMusic: {
+					Label: "[i:576] 定制音乐"
+					Tooltip: 启用模组定制音乐。
+				}
+
+				ExperimentalWorldgen: {
+					Label: "[i:1344] 实验性世界生成"
+					Tooltip:
+						'''
+						允许还在开发中的世界生成。
+						仅作测试，不推荐正常游玩。
+						'''
+				}
+			}
+
+			Server: {
+				DisplayName: 服务器设置
+				Headers.Gameplay: 游玩
+
+				FreedomOfMovement: {
+					Label: "[i:54] 移动自由"
+					Tooltip:
+						'''
+						玩家移动更加自然、敏捷。 (15mph > 18mph) 
+						高度推荐。
+						'''
+				}
+
+				EnemyAI: {
+					Label: "[i:1248] 敌人AI改进"
+					Tooltip:
+						'''
+						多数空中和水中敌人AI得到改进。
+						多人游戏不起效。
+						'''
+				}
+
+				ProjectileAI: {
+					Label: "[i:1321] 射弹AI改进"
+					Tooltip:
+						'''
+						投掷武器飞行轨迹更顺滑，增加易用性。改进平衡性，比如手里剑自动连续投掷。
+						有一些尚未摸清机制的BUG。
+						'''
+				}
+
+				HangingBats: {
+					Label: "[i:1621] 倒吊的蝙蝠"
+					Tooltip:
+						'''
+						蝙蝠会倒吊生成在天花板上，仅在靠近时发动攻击。
+						多人游戏不起效
+						'''
+				}
+			}
+		}
+

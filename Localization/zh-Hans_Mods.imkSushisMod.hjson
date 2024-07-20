@@ -1,0 +1,286 @@
+Common: {
+    NPCSummoningPotion: {
+        DisplayName: "{0}召唤药水"
+		Tooltip: 召唤{0}
+    }
+}
+
+Conditions: {
+    DownedPumpkinMoonBossAny: 击败哀木和南瓜王后
+	DownedFrostMoonBossAny: 击败常绿尖叫怪，圣诞坦克和冰雪女王后
+}
+
+Items: {
+    AdamantiteMelter: {
+			DisplayName: 精金熔化炉
+			Tooltip: 用于把东西熔回锭和矿石
+	}
+
+	AnglerAmnesiaPotion: {
+			DisplayName: 渔夫健忘药水
+			Tooltip: 等等，我要写啥来着？
+	}
+
+	BaseSummoningPotion: {
+			DisplayName: 基础召唤药水
+			Tooltip:
+			'''
+			里面没有基因
+			用来制作NPC召唤药水
+			''' 
+	}
+
+	BiomeKey: {
+			DisplayName: 生态群落钥匙
+			Tooltip:
+			'''
+			通用玉米片
+			用这个钥匙交换其他种类的钥匙
+			''' 
+	}
+
+	BuildersBook: {
+			DisplayName: 建筑工的书
+			Tooltip:
+			'''
+			耶！我们来搭积木吧！
+			此物品无法正常工作 - 无法获取
+			''' 
+	}
+
+	Cookie: {
+			DisplayName: 曲奇
+			ToolTip:
+			'''
+			吃块饼干
+			都是快乐的日子
+			''' 
+			Tooltip: ""
+	}
+
+	FeederFlower: {
+			DisplayName: 喂食花
+			Tooltip: 具有魔力花和生命花的功能
+	}
+
+	FieryStick: {
+			DisplayName: 火棍
+			Tooltip: 等等，但这只是第 1 波...
+	}
+
+	GreaterTimeSphere: {
+			DisplayName: 大时间球
+			Tooltip: 游戏时间推移12小时
+	}
+
+	HealingFlower: {
+			DisplayName: 生命花
+			Tooltip: 需要时自动使用生命药水
+	}
+
+	Hellmelter: {
+			DisplayName: 地狱熔化炉
+			Tooltip: 用于把东西熔回锭和矿石
+	}
+
+	IcyBranch: {
+			DisplayName: 冰棍
+			Tooltip: 放松，这只是第 1 波...
+	}
+
+	LesserTimeSphere: {
+			DisplayName: 小时间球
+			Tooltip: 游戏时间推移2小时
+	}
+
+	MartianRocket: {
+			DisplayName: 火星人火箭
+			Tooltip: 我还以为到火星要比嘀答一次时间长呢
+	}
+
+	Melter: {
+			DisplayName: 熔化炉
+			Tooltip: 用于把东西熔回锭和矿石
+	}
+
+	MeteoritePotion: {
+			DisplayName: 陨石药水
+			Tooltip: 这就是恐龙的遭遇...
+	}
+
+	MysteriousSeed: {
+			DisplayName: 神秘种子
+			Tooltip: 植物时代的开始
+	}
+
+	PumpkingsCrown: {
+			DisplayName: 长袍南瓜
+			Tooltip:
+			'''
+			等等，但这只是第 1 波...
+			也许还有一个南瓜
+			''' 
+	}
+
+	ResurrectionPotion: {
+			DisplayName: 复活药水
+			Tooltip: 将你传送到最后的死亡地点
+	}
+
+	Snowflake: {
+			DisplayName: 雪花
+			Tooltip:
+			'''
+			等等，但这只是第 1 波...
+			这不是雪花，因为它的边数不对...
+			''' 
+	}
+
+	SuperTimeSphere: {
+			DisplayName: 超级时间球
+			Tooltip: 游戏时间推移20小时
+	}
+
+	TimeSphere: {
+			DisplayName: 时间球
+			Tooltip: 游戏时间推移6小时
+	}
+
+	TitaniumMelter: {
+			DisplayName: 钛金熔化炉
+			Tooltip: 用于把东西熔回锭和矿石
+	}
+
+	ToyTank: {
+			DisplayName: 玩具坦克
+			Tooltip: 等等，但这只是第 1 波...
+	}
+
+	BetsyBossToken: {
+			DisplayName: 双足翼龙战利品兑换币
+			Tooltip: 兑换迷你Boss战利品
+	}
+
+	BrainOfCthulhuBossToken: {
+			DisplayName: 克苏鲁之脑战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	DarkMageBossToken: {
+			DisplayName: 黑暗魔法师战利品兑换币
+			Tooltip: 兑换迷你Boss战利品
+	}
+
+	DeerclopsBossToken: {
+			DisplayName: 独眼巨鹿战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	DestroyerBossToken: {
+			DisplayName: 毁灭者战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	DukeFishronBossToken: {
+			DisplayName: 猪龙鱼公爵战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	EaterOfWorldsBossToken: {
+			DisplayName: 世界吞噬者战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	EmpressOfLightBossToken: {
+			DisplayName: 光之女皇战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	EyeOfCthulhuBossToken: {
+			DisplayName: 克苏鲁之眼战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	GolemBossToken: {
+			DisplayName: 石巨人战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	KingSlimeBossToken: {
+			DisplayName: 史莱姆王战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	LunaticCultistBossToken: {
+			DisplayName: 拜月教邪教徒战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	MoonLordBossToken: {
+			DisplayName: 月亮领主战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	MourningWoodBossToken: {
+			DisplayName: 哀木战利品兑换币
+			Tooltip: 兑换迷你Boss战利品
+	}
+
+	OgreBossToken: {
+			DisplayName: 食人魔战利品兑换币
+			Tooltip: 兑换迷你Boss战利品
+	}
+
+	PirateInvasionToken: {
+			DisplayName: 海盗入侵战利品兑换币
+			Tooltip: 兑换入侵事件战利品
+	}
+
+	PlanteraBossToken: {
+			DisplayName: 世纪之花战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	PumpkingBossToken: {
+			DisplayName: 南瓜王战利品兑换币
+			Tooltip: 兑换迷你Boss战利品
+	}
+
+	QueenBeeBossToken: {
+			DisplayName: 蜂王战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	QueenSlimeBossToken: {
+			DisplayName: 史莱姆皇后战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	SkeletronBossToken: {
+			DisplayName: 骷髅王战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	SkeletronPrimeBossToken: {
+			DisplayName: 机械骷髅王战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	TwinsBossToken: {
+			DisplayName: 双子魔眼战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+
+	WallOfFleshBossToken: {
+			DisplayName: 血肉之墙战利品兑换币
+			Tooltip: 兑换Boss战利品
+	}
+}
+
+Tiles: {
+    Melter.MapEntry: 熔化炉
+    Hellmelter.MapEntry: 地狱熔化炉
+    AdamantiteMelter.MapEntry: 精金熔化炉
+    TitaniumMelter.MapEntry: 钛金熔化炉
+}
+

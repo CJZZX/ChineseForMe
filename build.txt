@@ -1,0 +1,5 @@
+displayName = Chinese For Me
+author = 日暮
+version = 0.1
+weakReferences = VervMC, TysYoyoRedux144, Remnants, imkSushisMod, Tokens, AdvancedAmmunition, CoblerMod
+translationMod = true
