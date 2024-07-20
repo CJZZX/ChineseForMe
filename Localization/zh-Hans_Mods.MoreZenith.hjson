@@ -1,32 +1,32 @@
 Buffs: {
 	CowboyCoinBuff: {
-		// DisplayName: Cowboy Coin Buff
-		// Description: Mods.MoreZenith.Buffs.CowboyCoinBuff.Description
+		DisplayName: 牛仔币效果
+		Description: Mods.MoreZenith.Buffs.CowboyCoinBuff.Description
 	}
 
 	DemonWhipDebuff: {
-		// DisplayName: Demon Whip Debuff
-		// Description: Mods.MoreZenith.Buffs.DemonWhipDebuff.Description
+		DisplayName: 恶魔鞭减益
+		Description: Mods.MoreZenith.Buffs.DemonWhipDebuff.Description
 	}
 
 	EnchantedWhipDebuff: {
-		// DisplayName: Enchanted Whip Debuff
-		// Description: Mods.MoreZenith.Buffs.EnchantedWhipDebuff.Description
+		DisplayName: 附魔鞭减益
+		Description: Mods.MoreZenith.Buffs.EnchantedWhipDebuff.Description
 	}
 
 	NightWhip: {
-		// DisplayName: Night Whip
-		// Description: Mods.MoreZenith.Buffs.NightWhip.Description
+		DisplayName: 永夜鞭效果
+		Description: Mods.MoreZenith.Buffs.NightWhip.Description
 	}
 
 	Skelhead: {
-		// DisplayName: Skeleton Head
-		// Description: The skull will fight for you
+		DisplayName: 骷髅头效果
+		Description: The skull will fight for you
 	}
 
 	Lantern: {
-		// DisplayName: Lantern
-		// Description: Mods.MoreZenith.Buffs.Lantern.Description
+		DisplayName: 灯笼效果
+		Description: Mods.MoreZenith.Buffs.Lantern.Description
 	}
 }
 
@@ -121,990 +121,990 @@ Items: {
 	}
 
 	BrokenHeroBoomerang: {
-		// Tooltip: 扔了就再也不会回来了
-		// DisplayName: 断裂英雄回旋镖
+		Tooltip: 扔了就飞不回来了
+		DisplayName: 断裂英雄回旋镖
 	}
 
 	DemoniteBoomerang: {
-		// Tooltip: 召唤追踪世吞
-		// DisplayName: 腐化回旋镖
+		Tooltip: 召唤追踪世吞
+		DisplayName: 腐化回旋镖
 	}
 
 	FlyingDagger: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Throws a controllable flying dagger
-			(Doesn't work due to new update breaking it)
-			''' */
-		// DisplayName: Flying Dagger
+			投出可控投刀
+			(由于新的更新导致无法正常工作)
+			'''
+		DisplayName: 投刀
 	}
 
 	Solarrang: {
-		// Tooltip: Explodes on hit
-		// DisplayName: Solarrang
+		Tooltip: 命中时爆炸
+		DisplayName: 日耀回旋镖
 	}
 
 	Terrarang: {
-		// Tooltip: Throws terra boomerangs
-		// DisplayName: Terrarang
+		Tooltip: 投出泰拉回旋镖
+		DisplayName: 泰拉回旋镖
 	}
 
 	TrueFlyingDagger: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Throws a controllable flying dagger
-			(Doesn't work due to new update breaking it)
-			''' */
-		// DisplayName: True Flying Dagger
+			投出可控投刀
+			(由于新的更新导致无法正常工作)
+			'''
+		DisplayName: 原版投刀
 	}
 
 	TrueFlyingKnife: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Throws a controllable flying knife
-			(Doesn't work due to new update breaking it)
-			''' */
-		// DisplayName: True Flying Knife
+			投出可控飞刀
+			(由于新的更新导致无法正常工作)
+			'''
+		DisplayName: 原版飞刀
 	}
 
 	ZenithBoomerang: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Throws all boomerangs you collected
-			(Doesn't work correctly due to new update breaking it)
-			''' */
-		// DisplayName: Zenith Boomerang
+			投出收集的所有回旋镖
+			(由于新的更新导致无法正常工作)
+			'''
+		DisplayName: 天顶回旋镖
 	}
 
 	BrokenHeroBow: {
-		// Tooltip: Once used to defeat the biggest of monsters
-		// DisplayName: Broken Hero Bow
+		Tooltip: 曾经用来射杀庞大的怪物
+		DisplayName: 断裂英雄弓
 	}
 
 	DungeonsBow: {
-		// DisplayName: Kobaruto Hankyu
-		// Tooltip: Turns wooden arrows into water arrows
+		DisplayName: 钴长弓
+		Tooltip: 将木箭转化为水箭
 	}
 
 	NightsRecurve: {
-		// DisplayName: Night's Recurve
-		// Tooltip: Shoots two arrows at once
+		DisplayName: 永夜反曲弓
+		Tooltip: 一次射出两支箭
 	}
 
 	Observatory: {
-		// DisplayName: Observatory
-		// Tooltip: Turns wooden arrows into stars that rain from the sky
+		DisplayName: 观象台
+		Tooltip: 把木箭变成星星，从天而降
 	}
 
 	TerraVengeance: {
-		// DisplayName: Terra Vengeance
-		// Tooltip: Turns wooden arrows into terra arrows
+		DisplayName: 泰拉之仇
+		Tooltip: 将木箭变成泰拉箭
 	}
 
 	TheHorsemansBow: {
-		// DisplayName: Autumn's Reach
-		// Tooltip: Shoots homing pumpkins
+		DisplayName: 秋至
+		Tooltip: 射出追踪南瓜
 	}
 
 	TrueHallowedRepeater: {
-		// DisplayName: True Hallowed Repeater
-		// Tooltip: Shoots hallowed arrows
+		DisplayName: 原版神圣连弩
+		Tooltip: 射出神圣之箭
 	}
 
 	TrueNightsRecurve: {
-		// DisplayName: True Night's Recurve
-		// Tooltip: Turns wooden arrows into dark arrows
+		DisplayName: 原版永夜反曲弓
+		Tooltip: 将木箭变成暗箭
 	}
 
 	ZenithBow: {
-		// Tooltip: Shoots arrows made out of hot and cold light
-		// DisplayName: Zenith Bow
+		Tooltip: 射出的箭蕴含冰与火之光
+		DisplayName: 天顶弓
 	}
 
 	BloodyExtraction: {
-		// Tooltip: Turns poison darts into piercing bloody darts
-		// DisplayName: Bloody Extraction
+		Tooltip: 将毒镖变成穿透性血腥镖
+		DisplayName: 血液抽离者
 	}
 
 	BrokenHeroDartRifle: {
-		// Tooltip: Once used to destroy the evil
-		// DisplayName: Broken Hero Dart Rifle
+		Tooltip: 曾经用来摧毁邪恶
+		DisplayName: 断裂英雄飞镖步枪
 	}
 
 	CattoBlaster: {
-		// Tooltip: Turns poison darts into bouncing cats
-		// DisplayName: Catto Blaster
+		Tooltip: 把毒镖变成彩虹猫
+		DisplayName: 彩虹猫爆破枪
 	}
 
 	DungeonsScope: {
-		// DisplayName: Fukiya
-		// Tooltip: Turns poison darts into bouncing water darts
+		DisplayName: 吹矢
+		Tooltip: 将毒镖变成弹性水镖
 	}
 
 	HallowedDartRifle: {
-		// DisplayName: Somnus Sacer
-		// Tooltip: "'The world is yours'"
+		DisplayName: 神圣飞镖步枪
+		Tooltip: "'世界是你的了'"
 	}
 
 	HellsDartgun: {
-		// DisplayName: Inferno Darter
-		// Tooltip: Turns poison darts into exploding fire darts
+		DisplayName: 炼狱飞镖手枪
+		Tooltip: 将毒镖变成爆炸火镖
 	}
 
 	InfluxDarter: {
-		// DisplayName: Cow Prober
-		// Tooltip: Turns poison darts into influx darts
+		DisplayName: 奶牛探测仪
+		Tooltip: 将毒镖变成涌流镖
 	}
 
 	LightsFury: {
-		// DisplayName: Light's Curse
-		// Tooltip: Turns poison darts into piercing corrupted darts
+		DisplayName: 光之诅咒
+		Tooltip: 将毒镖变成穿透性腐化镖
 	}
 
 	NightsBlaster: {
-		// DisplayName: Night's Blaster
-		// Tooltip: Shoots two darts at once
+		DisplayName: 永夜爆破枪
+		Tooltip: 一次射出两个飞镖
 	}
 
 	PartysFate: {
-		// DisplayName: Fiesta
-		// Tooltip: Shoots all darts you collected
+		DisplayName: 盛宴
+		Tooltip: 射出收集的所有飞镖
 	}
 
 	TerraPersuader: {
-		// DisplayName: Terraflow
-		// Tooltip: Shoots terra bombs
+		DisplayName: 泰拉激流
+		Tooltip:射出泰拉炸弹
 	}
 
 	TrueHallowedDartRifle: {
-		// DisplayName: True Somnus Sacer
-		// Tooltip: Turns poison darts into hallowed darts
+		DisplayName: 原版神圣飞镖步枪
+		Tooltip: 将毒镖变成圣镖
 	}
 
 	TrueNightsBlaster: {
-		// DisplayName: True Night's Blaster
-		// Tooltip: Shoots cursed bombs
+		DisplayName: 原版永夜爆破枪
+		Tooltip: 射出诅咒炸弹
 	}
 
 	VortexDominator: {
-		// DisplayName: Vortex Dominator
-		// Tooltip: Shoots homing vortex darts
+		DisplayName: 星旋支配者
+		Tooltip: 射出追踪星旋飞镖
 	}
 
 	BloodBurner: {
-		// DisplayName: Blood Burner
-		// Tooltip: Shoots a stream of blood
+		DisplayName: 血液燃烧器
+		Tooltip: 射出一股血流
 	}
 
 	BrokenHeroFlamethrower: {
-		// Tooltip: Seems like the flame burnt out
-		// DisplayName: Broken Hero Flamethrower
+		Tooltip: 火焰似乎已经燃尽了
+		DisplayName: 断裂英雄火焰喷射器
 	}
 
 	DungeonsFear: {
-		// DisplayName: Dungeon's Extinguisher
-		// Tooltip: Shoots a stream of water
+		DisplayName: 地牢灭火器
+		Tooltip: 射出水流
 	}
 
 	GrassSpitter: {
-		// DisplayName: Grass Spitter
-		// Tooltip: Shoots a stream of leaves
+		DisplayName: 吐草器
+		Tooltip: 射出树叶流
 	}
 
 	HellsFire: {
-		// DisplayName: Hell's Fire
-		// Tooltip: Shoots a stream of fire
+		DisplayName: 地狱火
+		Tooltip: 射出火流
 	}
 
 	HoneySpitter: {
-		// DisplayName: Honey Spitter
-		// Tooltip: Shoots a stream of honey
+		DisplayName: 喷蜜者
+		Tooltip: 射出一股蜜流
 	}
 
 	LightsFire: {
-		// DisplayName: Light's Welder
-		// Tooltip: Shoots a stream of corrupted fire
+		DisplayName: 光之杀手
+		Tooltip: 射出腐化火流
 	}
 
 	NightsWrath: {
-		// DisplayName: Night's Melter
-		// Tooltip: Shoots a stream of night fire
+		DisplayName: 夜之熔者
+		Tooltip: 射出暗夜火流
 	}
 
 	PartyMaster: {
-		// DisplayName: Party Master
-		// Tooltip: Shoots multiple streams of light
+		DisplayName: 派对大师
+		Tooltip: 射出多条光流
 	}
 
 	SacredFlamethrower: {
-		// DisplayName: Lumen Cleanser
-		// Tooltip: Shoots a stream of fire
+		DisplayName: 圣焰喷射器
+		Tooltip: 射出火流
 	}
 
 	StarThrower: {
-		// DisplayName: Star Thrower
-		// Tooltip: Shoots stars
+		DisplayName: 掷星者
+		Tooltip: 射出星星
 	}
 
 	TerraFlamethrower: {
-		// DisplayName: Terra Flamethrower
-		// Tooltip: Shoots a stream of terra fire
+		DisplayName: 泰拉火焰喷射器
+		Tooltip: 射出泰拉火流
 	}
 
 	TrueNightsWrath: {
-		// DisplayName: True Night's Melter
-		// Tooltip: Shoots a stream of cursed fire
+		DisplayName: 原版夜之熔者
+		Tooltip: 射出一股诅咒之火
 	}
 
 	TrueSacredFlamethrower: {
-		// DisplayName: True Lumen Cleanser
-		// Tooltip: Shoots a stream of hallowed fire
+		DisplayName: 原版圣焰喷射器
+		Tooltip: 射出神圣火流
 	}
 
 	VortexDelusion: {
-		// DisplayName: Vortex Delusion
-		// Tooltip: Shoots a stream of vortex fire
+		DisplayName: 星旋妄想者
+		Tooltip: 射出星旋火流
 	}
 
 	WoodenFlamethrower: {
-		// DisplayName: Wooden Flamethrower
-		// Tooltip: Shoots a stream of fire
+		DisplayName: 木火焰喷射器
+		Tooltip: 射出火流
 	}
 
 	AmberSickle: {
-		// DisplayName: Amber Sickle
-		// Tooltip: Shoot amber sickles
+		DisplayName: 琥珀镰
+		Tooltip: 射出琥珀镰刀
 	}
 
 	BloodyObscenity: {
-		// DisplayName: Bloody Obscenity
-		// Tooltip: Shoots bloody sickles
+		DisplayName: 血腥淫镰
+		Tooltip: 射出带血镰刀
 	}
 
 	BrokenHeroScythe: {
-		// Tooltip: Power was lost a long time ago
-		// DisplayName: Broken Reaper Chine
+		Tooltip: 很久以前就失去了力量
+		DisplayName: 断裂死神镰
 	}
 
 	CattoScythe: {
-		// DisplayName: Catto Scythe
-		// Tooltip: Shoots multiple bouncing cats
+		DisplayName: 彩虹猫镰刀
+		Tooltip: 射出多个弹性猫猫
 	}
 
 	FieryGreatSickle: {
-		// Tooltip: Shoots fire sickles
-		// DisplayName: Fiery Great Sickle
+		Tooltip: 射出火镰
+		DisplayName: 炽热大镰刀
 	}
 
 	GrassCutter: {
-		// Tooltip: Shoots explosive thorns
-		// DisplayName: Grass Cutter
+		Tooltip: 射出爆炸荆棘
+		DisplayName: 割草镰
 	}
 
 	HallowedSickle: {
-		// DisplayName: Holy Crest
-		// Tooltip: Shoots hallowed sickles
+		DisplayName: 圣镰
+		Tooltip: 射出神圣镰刀
 	}
 
 	Honekama: {
-		// Tooltip: Shoots bouncing bolts
-		// DisplayName: Honekama
+		Tooltip: 射出弹性箭矢
+		DisplayName: 骨镰
 	}
 
 	LightsCurse: {
-		// DisplayName: Collector of Souls
-		// Tooltip: Shoots corrupted sickles
+		DisplayName: 灵魂收集者
+		Tooltip: 射出腐化镰刀
 	}
 
 	NightsScythe: {
-		// DisplayName: Reaper's Call
-		// Tooltip: Shoots multiple dark sickles
+		DisplayName: 死神之召
+		Tooltip: 射出多把黑镰刀
 	}
 
 	SolarScythe: {
-		// DisplayName: Fiery Eclipse
-		// Tooltip: Throws homing sickles made from the sun
+		DisplayName: 炽热日食
+		Tooltip: 掷出太阳制成的追踪镰刀
 	}
 
 	StarReacher: {
-		// DisplayName: Star Reacher
-		// Tooltip: Shoots multiple stars
+		DisplayName: 星取者
+		Tooltip: 射出多个星星
 	}
 
 	TerraScythe: {
-		// DisplayName: Scyther of Terraria
-		// Tooltip: Throws homing terra sickles
+		DisplayName: 泰拉镰刀
+		Tooltip: 射出追踪泰拉镰刀
 	}
 
 	TheHorsemansScythe: {
-		// DisplayName: The Horseman's Hand
-		// Tooltip: Shoots exploding pumpkins
+		DisplayName: 无头骑士镰
+		Tooltip: 射出爆炸南瓜
 	}
 
 	TrueHallowedSickle: {
-		// DisplayName: True Holy Crest
-		// Tooltip: Shoots true hallowed sickles
+		DisplayName: 原版圣镰
+		Tooltip: 射出原版神圣镰刀
 	}
 
 	TrueNightsScythe: {
-		// DisplayName: True Reaper's Call
-		// Tooltip: Shoots multiple true dark sickles
+		DisplayName: 原版死神之召
+		Tooltip: 射出多把原版黑镰刀
 	}
 
 	ZenithScythe: {
-		// DisplayName: Zenith Scythe
-		// Tooltip: Throws all sickles you collected
+		DisplayName: 天顶镰刀
+		Tooltip: 射出你收集的所有镰刀
 	}
 
 	BeesProtector: {
-		// DisplayName: Bees Protector
-		// Tooltip: Summons killer bees after striking
+		DisplayName: 蜜蜂护卫
+		Tooltip: 命中后召唤杀人蜂
 	}
 
 	BloodSlayer: {
-		// DisplayName: Blood Slayer
-		// Tooltip: Shoots healing knifes
+		DisplayName: 血腥杀手
+		Tooltip: 射出吸血刀
 	}
 
 	BrokenHeroShortsword: {
-		// Tooltip: This shortsword has been used by the legendary long forgotten knight
-		// DisplayName: Broken Hero Shortsword
+		Tooltip: 这把短剑曾被传说中的迷失骑士使用过
+		DisplayName: 断裂英雄短剑
 	}
 
 	EnchantedShortsword: {
-		// DisplayName: Enchanted Shortsword
-		// Tooltip: Shoots enchanted beams
+		DisplayName: 附魔短剑
+		Tooltip: 射出附魔光束
 	}
 
 	FieryGreatknife: {
-		// DisplayName: Magma Knife
-		// Tooltip: Shoots exploding beams
+		DisplayName: 岩浆匕首
+		Tooltip: 射出爆炸光束
 	}
 
 	Honesuki: {
-		// Tooltip: Shoots water beams
-		// DisplayName: Honesuki
+		Tooltip: 射出水柱
+		DisplayName: 骨刀
 	}
 
 	InflowWaver: {
-		// Tooltip: Shoots inflow beams
-		// DisplayName: Inflow Waver
+		Tooltip: 射出涌流光束
+		DisplayName: 涌流之刃
 	}
 
 	LightsDarkness: {
-		// DisplayName: Light's Darkness
-		// Tooltip: Shoots shadowflames
+		DisplayName: 光明的黑暗
+		Tooltip: 射出阴影焰
 	}
 
 	NightsShortsword: {
-		// DisplayName: Night's Shortsword
-		// Tooltip: Shoots dark beams
+		DisplayName: 永夜短剑
+		Tooltip: 射出黑暗光束
 	}
 
 	Shortcalibur: {
-		// Tooltip: Shoots hallowed beams
-		// DisplayName: Shortcalibur
+		Tooltip: 射出神圣光束
+		DisplayName: 神圣短剑
 	}
 
 	ShortMeowmere: {
-		// DisplayName: Short Mewmere
-		// Tooltip: Shoots bouncing cats
+		DisplayName: 彩虹猫短剑
+		Tooltip: 射出弹跳猫猫
 	}
 
 	ShortswordofGrass: {
-		// DisplayName: Shortsword of Grass
-		// Tooltip: Shoots leaves
+		DisplayName: 草之短剑
+		Tooltip: 射出叶子
 	}
 
 	Springler: {
-		// Tooltip: Shoots exploding seeds
-		// DisplayName: Springler
+		Tooltip: 射出爆炸种子
+		DisplayName: 草短剑
 	}
 
 	StarFrenzy: {
-		// Tooltip: Causes stars to rain from the sky
-		// DisplayName: Star Frenzy
+		Tooltip: 使星星从天而降
+		DisplayName: 星之燥热
 	}
 
 	StarRage: {
-		// Tooltip: Causes stars to shoot out of your blade
-		// DisplayName: Star Rage
+		Tooltip: 从刀刃射出星星
+		DisplayName: 星之狂怒
 	}
 
 	TerraShortsword: {
-		// DisplayName: Terra Shortsword
-		// Tooltip: "'Made from pure nature'"
+		DisplayName: 泰拉短剑
+		Tooltip: "'纯天然制造'"
 	}
 
 	TheHorsemansShortsword: {
-		// DisplayName: Shortswordless Horseman's Shortsword
-		// Tooltip: Summons Pumpkin heads to attack your enemies
+		DisplayName: 无头骑士短剑
+		Tooltip: 召唤南瓜头攻击敌人
 	}
 
 	TrueNightsShortsword: {
-		// DisplayName: True Night's Shortsword
-		// Tooltip: You feel like a monster
+		DisplayName: 原版永夜短剑
+		Tooltip: 你觉得自己像个怪物
 	}
 
 	TrueShortcalibur: {
-		// DisplayName: True Shortcalibur
-		// Tooltip: "'You will save the world'"
+		DisplayName: 原版短剑
+		Tooltip: "'你将拯救世界'"
 	}
 
 	ZenithShortsword: {
-		// DisplayName: Zenith Shortsword
-		/* Tooltip:
+		DisplayName: 天顶短剑
+		Tooltip:
 			'''
-			Right click to shoot homing shortwords
-			Left click to swing the shortsword
-			''' */
+			点击右键可射出追踪短剑
+			点击左键挥舞短剑
+			'''
 	}
 
 	AmberTome: {
-		// Tooltip: Casts amber bolts
-		// DisplayName: Amber Tome
+		Tooltip: 射出琥珀弹
+		DisplayName: 琥珀巨著
 	}
 
 	BoilingWaterBolt: {
-		// Tooltip: Casts fire and water bolts
-		// DisplayName: Boiling Water Bolt
+		Tooltip: 射出火水弹
+		DisplayName: 沸水弹
 	}
 
 	BrokenHeroTome: {
-		// Tooltip: All the pages were torn out
-		// DisplayName: Broken Hero Tome
+		Tooltip: 每页都被撕掉了
+		DisplayName: 断裂英雄巨著
 	}
 
 	FireBolt: {
-		// Tooltip: Casts fire bolts
-		// DisplayName: Fire Bolt
+		Tooltip: 射出火弹
+		DisplayName: 火弹
 	}
 
 	FlowerGale: {
-		// Tooltip: Shoots flower leaves
-		// DisplayName: Flower Gale
+		Tooltip: 射出花瓣
+		DisplayName: 盖尔之花
 	}
 
 	GalaxysFuture: {
-		// DisplayName: Galaxy's Future
-		// Tooltip: Casts nebula bolts
+		DisplayName: 银河未来
+		Tooltip: 射出星云弹
 	}
 
 	HallowedRevenge: {
-		// Tooltip: Casts hallowed bolts
-		// DisplayName: Hallowed Revenge
+		Tooltip: 射出神圣弹
+		DisplayName: 神圣复仇
 	}
 
 	LastSpectrum: {
-		// DisplayName: Last Spectrum
-		/* Tooltip:
+		DisplayName: 最后的光谱
+		Tooltip:
 			'''
-			Casts various spells
-			Nothing can stop you now
-			''' */
+			射出各种法术
+			现在没人能阻止你了
+			'''
 	}
 
 	LeafBook: {
-		// Tooltip: Casts leaves
-		// DisplayName: Leaflet
+		Tooltip: 射出树叶
+		DisplayName: 叶控
 	}
 
 	NightmareFlame: {
-		// Tooltip: Casts nightmare bolts
-		// DisplayName: Nightmare Flame
+		Tooltip: 射出梦魇弹
+		DisplayName: 梦魇焰
 	}
 
 	StarSpell: {
-		// Tooltip: Casts stars
-		// DisplayName: Star Spell
+		Tooltip: 射出星星
+		DisplayName: 星咒
 	}
 
 	TerraTome: {
-		// Tooltip: Casts nature's magic
-		// DisplayName: Terra Tome
+		Tooltip: 射出自然魔法弹
+		DisplayName: 泰拉巨著
 	}
 
 	BeeBlower: {
-		// DisplayName: Bee Blower
-		// Tooltip: Casts bees that fall onto your enemy
+		DisplayName: 吹蜂机
+		Tooltip: 将蜜蜂投向敌人
 	}
 
 	BrokenHeroStaff: {
-		// Tooltip: The power crystal on the top seems to be broken
-		// DisplayName: Broken Hero Staff
+		Tooltip: 顶部的能量水晶似乎坏了
+		DisplayName: 断裂英雄法杖
 	}
 
 	NebulaWand: {
-		// DisplayName: Nebula Wand
-		// Tooltip: Shoot controllable nebula stars
+		DisplayName: 星云魔棒
+		Tooltip: 射击可控星云星体
 	}
 
 	NightsVerge: {
-		// DisplayName: Night's Verge
-		// Tooltip: Shoots homing night bolts
+		DisplayName: 永夜杖
+		Tooltip: 射出追踪暗夜弹
 	}
 
 	SacredStaff: {
-		// DisplayName: Sacred Staff
-		// Tooltip: Shoots hallowed bolts that explode on hit
+		DisplayName: 神圣法杖
+		Tooltip: 射出神圣弹，命中后爆炸
 	}
 
 	StarScepter: {
-		// DisplayName: Star Scepter
-		// Tooltip: Casts stars that rain from the sky
+		DisplayName: 星星权杖
+		Tooltip: 使星星从天而降
 	}
 
 	TerraScepter: {
-		// DisplayName: Terra Scepter
-		// Tooltip: Shoots multiple terra bolts
+		DisplayName: 泰拉权杖
+		Tooltip: 射出多个泰拉弹
 	}
 
 	TrueNightsVerge: {
-		// DisplayName: True Night's Verge
-		// Tooltip: Shoots homing cursed bolts
+		DisplayName: 原版永夜杖
+		Tooltip: 射出追踪诅咒弹
 	}
 
 	TrueSacredStaff: {
-		// DisplayName: True Sacred Staff
-		// Tooltip: Shoots true hallowed bolts that explode on hit
+		DisplayName: 原版神圣法杖
+		Tooltip: 射出命中后爆炸的原版神圣弹
 	}
 
 	ZenithWand: {
-		// DisplayName: Zenith Staff
-		// Tooltip: Shoots all bolts from the staffs you collected
+		DisplayName: 天顶法杖
+		Tooltip: 射出你收集的所有法杖
 	}
 
 	BeltofSkies: {
-		// DisplayName: Belt of Skies
-		/* Tooltip:
+		DisplayName: 天空腰带
+		Tooltip:
 			'''
-			8 summon tag damage
-			Your summons will focus struck enemies
-			Casts stars upon your enemies on hit
-			''' */
+			8点召唤标记伤害
+			您的召唤物将集中攻击敌人
+			命中敌人时射出星星
+			'''
 	}
 
 	BloodyExecutioner: {
-		// DisplayName: Bloody Executioner
-		/* Tooltip:
+		DisplayName: 血腥刽子手
+		Tooltip:
 			'''
-			7 summon tag damage
-			Your summons will focus struck enemies
-			Blood drops on your hands
-			''' */
+			7点召唤标记伤害
+			您的召唤物将集中攻击敌人
+			血滴在你的手上
+			'''
 	}
 
 	BrokenHeroWhip: {
-		// Tooltip: Can't be swung
-		// DisplayName: Broken Hero Whip
+		Tooltip: 无法挥舞
+		DisplayName: 断裂英雄鞭
 	}
 
 	EnchantedWhip: {
-		// DisplayName: Enchanted Whip
-		/* Tooltip:
+		DisplayName: 附魔鞭
+		Tooltip:
 			'''
-			8 summon tag damage
-			Your summons will focus struck enemies
-			Strike enemies to summon friendly enchanted flakes
-			''' */
+			8点召唤标记伤害
+			您的召唤物将集中攻击敌人
+			攻击敌人召唤友好附魔碎片
+			'''
 	}
 
 	LightsGarner: {
-		// DisplayName: Light's Garner
-		/* Tooltip:
+		DisplayName: 魔鞭
+		Tooltip:
 			'''
-			7 summon tag damage 
-			Your summons will focus struck enemies
-			''' */
+			7点召唤标记伤害 
+			您的召唤物将集中攻击敌人
+			'''
 	}
 
 	EndlessBlueSolutionPouch: {
-		// DisplayName: Endless Blue Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽蓝溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Hallow
-			''' */
+			由环境改造枪使用
+			蔓延神圣之地
+			'''
 	}
 
 	EndlessCandyCornQuiver: {
-		// DisplayName: Endless Candy Corn Quiver
-		// Tooltip: ""
+		DisplayName: 无尽玉米糖袋
+		Tooltip: ""
 	}
 
 	EndlessDarkBlueSolutionPouch: {
-		// DisplayName: Endless Dark Blue Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽深蓝溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads Glowing Mushrooms
-			''' */
+			由环境改造枪使用
+			蔓延发光蘑菇
+			'''
 	}
 
 	EndlessFlareQuiver: {
-		// DisplayName: Endless Flare Quiver
-		// Tooltip: ""
+		DisplayName: 无尽照明弹袋
+		Tooltip: ""
 	}
 
 	EndlessGelPouch: {
-		// DisplayName: Endless Gel Pouch
-		// Tooltip: ""
+		DisplayName: 无尽凝胶袋
+		Tooltip: ""
 	}
 
 	EndlessGreenSolutionPouch: {
-		// DisplayName: Endless Green Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽绿溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Purity
-			''' */
+			由环境改造枪使用
+			蔓延纯净之地
+			'''
 	}
 
 	EndlessNailQuiver: {
-		// DisplayName: Endless Nail Quiver
-		// Tooltip: ""
+		DisplayName: 无尽钉子袋
+		Tooltip: ""
 	}
 
 	EndlessPurpleSolutionPouch: {
-		// DisplayName: Endless Purple Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽紫溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Corruption
-			''' */
+			由环境改造枪使用
+			蔓延腐化之地
+			'''
 	}
 
 	EndlessRedSolutionPouch: {
-		// DisplayName: Endless Red Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽红溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Crimson
-			''' */
+			由环境改造枪使用
+			蔓延猩红之地
+			'''
 	}
 
 	EndlessSandPouch: {
-		// DisplayName: Endless Sand Pouch
-		// Tooltip: ""
+		DisplayName: 无尽沙袋
+		Tooltip: ""
 	}
 
 	EndlessSnowballPouch: {
-		// DisplayName: Endless Snowball Pouch
-		// Tooltip: ""
+		DisplayName: 无尽雪球袋
+		Tooltip: ""
 	}
 
 	EndlessStakeQuiver: {
-		// DisplayName: Endless Stake Quiver
-		// Tooltip: ""
+		DisplayName: 无尽尖桩袋
+		Tooltip: ""
 	}
 
 	EndlessStarPouch: {
-		// DisplayName: Endless Star Pouch
-		// Tooltip: ""
+		DisplayName: 无尽星星袋
+		Tooltip: ""
 	}
 
 	EndlessStyngerBoltQuiver: {
-		// DisplayName: Endless Stynger Bolt Quiver
-		// Tooltip: ""
+		DisplayName: 无尽毒刺矢袋
+		Tooltip: ""
 	}
 
 	BrokenHeroYoyo: {
-		// DisplayName: Broken Hero Yoyo
-		// Tooltip: Seems like it was once powerful
+		DisplayName: 断裂英雄悠悠球
+		Tooltip: 似乎曾经很强大
 	}
 
 	Crater: {
-		// DisplayName: Volcanic Crater
-		// Tooltip: Casts fire bolts on hit
+		DisplayName: 火山球
+		Tooltip: 命中后发射火弹
 	}
 
 	DiamondYoyo: {
-		// DisplayName: Diamond Yoyo
-		// Tooltip: Casts diamond bolts
+		DisplayName: 钻石悠悠球
+		Tooltip: 发射钻石弹
 	}
 
 	GolemYoyo: {
-		// DisplayName: Golem's Throw
-		// Tooltip: Casts homing earth bolts
+		DisplayName: 石巨人的抛球
+		Tooltip: 发射追踪土弹
 	}
 
 	NightsYoyo: {
-		// DisplayName: Night's Line
-		// Tooltip: Casts dark bolts
+		DisplayName: 永夜球
+		Tooltip: 发射永夜弹
 	}
 
 	RubyYoyo: {
-		// DisplayName: Ruby Yoyo
-		// Tooltip: Casts ruby bolts
+		DisplayName: 鲁比悠悠球
+		Tooltip: 发射鲁比弹
 	}
 
 	SolarYoyo: {
-		// DisplayName: Solar Yoyo
-		// Tooltip: Explodes on hit
+		DisplayName: 日耀悠悠球
+		Tooltip: 命中时爆炸
 	}
 
 	StarAnger: {
-		// DisplayName: Star Anger
-		// Tooltip: Shoots stars upon enemies on hit
+		DisplayName: 星怒球
+		Tooltip: 命中后发射星星
 	}
 
 	TerraYoyo: {
-		// DisplayName: Terra Spin
-		// Tooltip: You feel the jungle spreading on your skin
+		DisplayName: 泰拉悠悠球
+		Tooltip: 你感觉丛林在你的皮肤上蔓延
 	}
 
 	TrueChik: {
-		// DisplayName: True Chik
-		// Tooltip: "'It's made from heaven'"
+		DisplayName: 原版吉克球
+		Tooltip: "'天堂制造'"
 	}
 
 	TrueNightsYoyo: {
-		// DisplayName: True Night's Line
-		// Tooltip: You feel the corruption spreading on your skin
+		DisplayName: 原版永夜球
+		Tooltip: 你感觉腐化在你的皮肤上蔓延
 	}
 
 	ZenithYoyo: {
-		// DisplayName: Zenith Yoyo
-		// Tooltip: Shoots all yoyos you collected
+		DisplayName: 天顶悠悠球
+		Tooltip: 发射你收集的全部悠悠球
 	}
 
 	CowboyCoin: {
-		// DisplayName: Cowboy Coin
-		// Tooltip: ""
+		DisplayName: 牛仔币
+		Tooltip: ""
 	}
 
 	DesertRunners: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			穿戴者可以跑得非常快, and even faster on sand
-			Grants the ability to float for a few seconds
-			''' */
-		// DisplayName: Desert Runners
+			穿戴者可以跑得非常快, 在沙地上能跑更快
+			赋予几秒滞空漂浮的能力
+			'''
+		DisplayName: 沙漠跑鞋
 	}
 
 	EndlessBoneArrowQuiver: {
-		// DisplayName: Endless Bone Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽骨箭袋
+		Tooltip: ""
 	}
 
 	EndlessChlorophyteArrowQuiver: {
-		// DisplayName: Endless Chlorophyte Arrow Quiver
-		// Tooltip: Bounces back after hitting a wall
+		DisplayName: 无尽叶绿箭袋
+		Tooltip: 撞墙后反弹
 	}
 
 	EndlessVenomArrowQuiver: {
-		// Tooltip: Inflicts target with Acid Venom
-		// DisplayName: Endless Venom Arrow Quiver
+		Tooltip: 对目标施放酸性毒液
+		DisplayName: 无尽毒液箭袋
 	}
 
 	EndlessVenomBulletPouch: {
-		// Tooltip: Inflicts target with Acid Venom
-		// DisplayName: Endless Venom Bullet Pouch
+		Tooltip: 对目标施放酸性毒液
+		DisplayName: 无尽毒液弹袋
 	}
 
 	EndlessWhiteSolutionPouch: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Snow
-			''' */
-		// DisplayName: Endless White Solution Pouch
+			由环境改造枪使用
+			蔓延雪地
+			'''
+		DisplayName: 无尽白色溶液袋
 	}
 
 	EndlessYellowSolutionPouch: {
-		/* Tooltip:
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Desert
-			''' */
-		// DisplayName: Endless Yellow Solution Pouch
+			由环境改造枪使用
+			蔓延沙漠
+			'''
+		DisplayName: 无尽黄色溶液袋
 	}
 
 	EndlessBrownSolutionPouch: {
-		// DisplayName: Endless Brown Solution Pouch
-		/* Tooltip:
+		DisplayName: 无尽棕色溶液袋
+		Tooltip:
 			'''
-			Used by the Clentaminator
-			Spreads the Forest
-			''' */
+			由环境改造枪使用
+			蔓延森林
+			'''
 	}
 
 	EndlessChlorophyteBulletPouch: {
-		// DisplayName: Endless Chlorophyte Bullet Pouch
-		// Tooltip: Chases after your enemy
+		DisplayName: 无尽叶绿弹袋
+		Tooltip: 追杀敌人
 	}
 
 	EndlessCrystalBulletPouch: {
-		// DisplayName: Endless Crystal Bullet Pouch
-		// Tooltip: Creates crystal shards on impact
+		DisplayName: 无尽水晶子弹袋
+		Tooltip: 碰撞时产生水晶碎片
 	}
 
 	EndlessCursedArrowQuiver: {
-		// DisplayName: Endless Cursed Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽诅咒箭袋
+		Tooltip: ""
 	}
 
 	EndlessCursedBulletPouch: {
-		// DisplayName: Endless Cursed Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽诅咒弹袋
+		Tooltip: ""
 	}
 
 	EndlessExplodingBulletPouch: {
-		// DisplayName: Endless Exploding Bullet Pouch
-		// Tooltip: Explodes on impact
+		DisplayName: 无尽爆破弹袋
+		Tooltip: 碰撞时爆炸
 	}
 
 	EndlessFlamingArrowQuiver: {
-		// DisplayName: Endless Flaming Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽烈焰箭袋
+		Tooltip: ""
 	}
 
 	EndlessFrostburnArrowQuiver: {
-		// DisplayName: Endless Frostburn Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽霜冻箭袋
+		Tooltip: ""
 	}
 
 	EndlessGoldBulletPouch: {
-		// DisplayName: Endless Gold Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽金子弹袋
+		Tooltip: ""
 	}
 
 	EndlessHellfireArrowQuiver: {
-		// DisplayName: Endless Hellfire Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽狱炎箭袋
+		Tooltip: ""
 	}
 
 	EndlessHighVelocityBulletPouch: {
-		// DisplayName: Endless High Velocity Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽高速子弹袋
+		Tooltip: ""
 	}
 
 	EndlessHolyArrowQuiver: {
-		// DisplayName: Endless Holy Arrow Quiver
-		// Tooltip: Summons falling stars on impact
+		DisplayName: 无尽圣箭袋
+		Tooltip: 碰撞时召唤陨星
 	}
 
 	EndlessIchorArrowQuiver: {
-		// DisplayName: Endless Ichor Arrow Quiver
-		// Tooltip: Decreases target's defense
+		DisplayName: 无尽灵液箭袋
+		Tooltip: 降低目标的防御力
 	}
 
 	EndlessIchorBulletPouch: {
-		// DisplayName: Endless Ichor Bullet Pouch
-		// Tooltip: Decreases target's defense
+		DisplayName: 无尽灵液弹袋
+		Tooltip: 降低目标的防御力
 	}
 
 	EndlessLuminiteArrowQuiver: {
-		// DisplayName: Endless Luminite Arrow Quiver
-		// Tooltip: "'Shooting them down at the speed of sound!'"
+		DisplayName: 无尽夜明箭袋
+		Tooltip: "'以音速射向它们！'"
 	}
 
 	EndlessLuminiteBulletPouch: {
-		// DisplayName: Endless Luminite Bullet Pouch
-		// Tooltip: "'Line 'em up and knock 'em down...'"
+		DisplayName: 无尽夜明弹袋
+		Tooltip: "'把敌人穿成串再干掉他们...'"
 	}
 
 	EndlessMeteorShotPouch: {
-		// DisplayName: Endless Meteor Shot Pouch
-		// Tooltip: ""
+		DisplayName: 无尽流星弹袋
+		Tooltip: ""
 	}
 
 	EndlessNanoBulletPouch: {
-		// DisplayName: Endless Nano Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽纳米弹袋
+		Tooltip: ""
 	}
 
 	EndlessPartyBulletPouch: {
-		// DisplayName: Endless Party Bullet Pouch
-		// Tooltip: Explodes into confetti on impact
+		DisplayName: 无尽派对弹袋
+		Tooltip: 碰撞时爆炸成彩纸
 	}
 
 	EndlessShimmerArrowQuiver: {
-		// DisplayName: Endless Shimmer Arrow Quiver
-		// Tooltip: Falls upwards
+		DisplayName: 无尽微光箭袋
+		Tooltip: 向上坠落
 	}
 
 	EndlessSilverBulletPouch: {
-		// DisplayName: Endless Silver Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽银子弹袋
+		Tooltip: ""
 	}
 
 	EndlessTungstenBulletPouch: {
-		// DisplayName: Endless Tungsten Bullet Pouch
-		// Tooltip: ""
+		DisplayName: 无尽钨子弹袋
+		Tooltip: ""
 	}
 
 	EndlessUnholyArrowQuiver: {
-		// DisplayName: Endless Unholy Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽邪箭袋
+		Tooltip: ""
 	}
 
 	EndlessJesterArrowQuiver: {
-		// DisplayName: Endless Jester Arrow Quiver
-		// Tooltip: ""
+		DisplayName: 无尽小丑之箭袋
+		Tooltip: ""
 	}
 
 	SkeletonHeadItem: {
-		// DisplayName: Shakujo
-		// Tooltip: Summons a skull to fight for you
+		DisplayName: 骨杖
+		Tooltip: 召唤骷髅头为你而战
 	}
 
 	NightLanternItem: {
-		// DisplayName: Night Lantern Item
-		// Tooltip: ""
+		DisplayName: 永夜法杖
+		Tooltip: ""
 	}
 }
 
 Projectiles: {
-	// BeeRang.DisplayName: Bee Rang
-	// BloodRang.DisplayName: Blood Rang
-	// DemonR.DisplayName: Demon R
+	// BeeRang.DisplayName: Bee回旋镖
+	// BloodRang.DisplayName: Blood回旋镖
+	// DemonR.DisplayName: Demon回旋镖
 	// FlyDag.DisplayName: Fly Dag
 	// Solarang.DisplayName: Solarang
-	// DemonRang.DisplayName: Demon Rang
-	// SolarR.DisplayName: Solar R
-	// StarR.DisplayName: Star R
+	// DemonRang.DisplayName: Demon回旋镖
+	// SolarR.DisplayName: Solar回旋镖
+	// StarR.DisplayName: Star回旋镖
 	// Starrang.DisplayName: Starrang
 	// Terarang.DisplayName: Terarang
-	// TerraBoom.DisplayName: Terra Boom
-	// TerraR.DisplayName: Terra R
+	// TerraBoom.DisplayName: 泰拉 Boom
+	// TerraR.DisplayName: 泰拉回旋镖
 	// TrueFlyDag.DisplayName: True Fly Dag
 	// TrueFlyKnife.DisplayName: True Fly Knife
-	// ZenithR.DisplayName: Zenith R
+	// ZenithR.DisplayName: Zenith回旋镖
 	// Zenithrang.DisplayName: Zenithrang
-	// DarkArrow.DisplayName: Dark Arrow
-	// HallowedArrow.DisplayName: Hallowed Arrow
-	// TerraArrow.DisplayName: Terra Arrow
-	// TrueHallowedArrow.DisplayName: True Hallowed Arrow
-	// ZenithArrow1.DisplayName: Zenith Arrow1
-	// BloodDart.DisplayName: Blood Dart
-	// FireDart.DisplayName: Fire Dart
-	// HallowDart.DisplayName: Hallow Dart
-	// InfluxDart.DisplayName: Influx Dart
-	// LightDart.DisplayName: Light Dart
-	// VortexDart.DisplayName: Vortex Dart
-	// WaterDart.DisplayName: Water Dart
-	// ElectricBolt.DisplayName: Electric Bolt
-	// CursedFlame.DisplayName: Cursed Flame
+	// DarkArrow.DisplayName: Dark箭
+	// HallowedArrow.DisplayName: Hallowed箭
+	// TerraArrow.DisplayName: 泰拉箭
+	// TrueHallowedArrow.DisplayName: True Hallowed箭
+	// ZenithArrow1.DisplayName: Zenith箭1
+	// BloodDart.DisplayName: Blood飞镖
+	// FireDart.DisplayName: Fire飞镖
+	// HallowDart.DisplayName: Hallow飞镖
+	// InfluxDart.DisplayName: Influx飞镖
+	// LightDart.DisplayName: Light飞镖
+	// VortexDart.DisplayName: Vortex飞镖
+	// WaterDart.DisplayName: Water飞镖
+	// ElectricBolt.DisplayName: Electric弹
+	// CursedFlame.DisplayName: Cursed焰
 	// FlameWood.DisplayName: Flame Wood
 	// GrassSeed.DisplayName: Grass Seed
-	// HoneyFlame.DisplayName: Honey Flame
-	// PartyFlame.DisplayName: Party Flame
+	// HoneyFlame.DisplayName: Honey焰
+	// PartyFlame.DisplayName: Party焰
 	// RainbowFire.DisplayName: Rainbow Fire
-	// TerraFlame.DisplayName: Terra Flame
+	// TerraFlame.DisplayName: 泰拉焰
 	// VortexFire.DisplayName: Vortex Fire
 	// GolemSun.DisplayName: Golem Sun
 	// GrassThorn.DisplayName: Grass Thorn
 	// HomingPumpkin.DisplayName: Homing Pumpkin
 	// HomingPumpki.DisplayName: Homing Pumpki
-	// HallowBolt.DisplayName: Hallow Bolt
+	// HallowBolt.DisplayName: Hallow弹
 	// NebulaMissile.DisplayName: Nebula Missile
-	// NightBolt.DisplayName: Night Bolt
-	// TerraBullet.DisplayName: Terra Bullet
-	// TerraFlake.DisplayName: Terra Flake
-	// TerraLeaf.DisplayName: Terra Leaf
+	// NightBolt.DisplayName: Night弹
+	// TerraBullet.DisplayName: 泰拉 Bullet
+	// TerraFlake.DisplayName: 泰拉 Flake
+	// TerraLeaf.DisplayName: 泰拉 Leaf
 	// Test.DisplayName: Test
-	// TrueNightBolt.DisplayName: True Night Bolt
+	// TrueNightBolt.DisplayName: True Night弹
 	// HomingBee.DisplayName: Homing Bee
 	// HomingCrimson.DisplayName: Homing Crimson
 	// HomingDemon.DisplayName: Homing Demon
@@ -1135,8 +1135,8 @@ Projectiles: {
 	// PumpkinT.DisplayName: Pumpkin T
 	// SolarS.DisplayName: Solar S
 	// StarT.DisplayName: Star T
-	// TerraBeamS.DisplayName: Terra Beam S
-	// TerraS.DisplayName: Terra S
+	// TerraBeamS.DisplayName: 泰拉 Beam S
+	// TerraS.DisplayName: 泰拉 S
 	// TrueHallowS.DisplayName: True Hallow S
 	// TrueNightsS.DisplayName: True Nights S
 	// TrueNightT.DisplayName: True Night T
@@ -1155,11 +1155,11 @@ Projectiles: {
 	// SpringlerP.DisplayName: Springler P
 	// StarFrenzyP.DisplayName: Star Frenzy P
 	// StarRageP.DisplayName: Star Rage P
-	// TerraShortswordP.DisplayName: Terra Shortsword P
+	// TerraShortswordP.DisplayName: 泰拉 Shortsword P
 	// TheHorsemansShortswordP.DisplayName: The Horsemans Shortsword P
 	// TrueNightsShortswordP.DisplayName: True Nights Shortsword P
 	// TrueShortcaliburP.DisplayName: True Shortcalibur P
-	// TerraBlast.DisplayName: Terra Blast
+	// TerraBlast.DisplayName: 泰拉 Blast
 	// WaterSpear.DisplayName: Water Spear
 	// BloodE.DisplayName: Blood E
 	// EnchantedW.DisplayName: Enchanted W
@@ -1182,19 +1182,19 @@ Projectiles: {
 	// YoyoVolcano.DisplayName: Yoyo Volcano
 	// YoyoZenith.DisplayName: Yoyo Zenith
 	// CowboyCoinProjectile.DisplayName: Cowboy Coin Projectile
-	// WaterArrow.DisplayName: Water Arrow
+	// WaterArrow.DisplayName: Water箭
 	// HallowExplode.DisplayName: Hallow Explode
 	// StarfallExplosion.DisplayName: Starfall Explosion
 	// TrueHallowExplode.DisplayName: True Hallow Explode
 	// TrueStarfallExplosion.DisplayName: True Starfall Explosion
-	// HallowScythe.DisplayName: Hallow Scythe
-	// NightScythe.DisplayName: Night Scythe
-	// PumpkinScythe.DisplayName: Pumpkin Scythe
-	// TrueHallowScythe.DisplayName: True Hallow Scythe
+	// HallowScythe.DisplayName: Hallow镰刀
+	// NightScythe.DisplayName: Night镰刀
+	// PumpkinScythe.DisplayName: Pumpkin镰刀
+	// TrueHallowScythe.DisplayName: True Hallow镰刀
 	// TrueHallowScyth.DisplayName: True Hallow Scyth
 	// TrueNightScyth.DisplayName: True Night Scyth
 	// FlyDag1.DisplayName: Fly Dag1
-	// WaterFlame.DisplayName: Water Flame
+	// WaterFlame.DisplayName: Water焰
 	// Terrayo.DisplayName: Terrayo
 	// Skeletonhead.DisplayName: Skeletonhead
 	// CurseFire.DisplayName: Curse Fire
@@ -1204,17 +1204,17 @@ Projectiles: {
 
 Configs: {
 	MoreZenithConfig: {
-		// DisplayName: 更多天顶装备配置
-		// Headers.Accessories: 饰品
+		DisplayName: 更多天顶装备配置
+		Headers.Accessories: 饰品
 
 		WingsToggle: {
-			// Label: 翅膀和靴子
-			// Tooltip: Toggles all Wings and Boots
+			Label: 翅膀和靴子
+			Tooltip: 切换所有翅膀和靴子
 		}
 
 		PetsToggle: {
-			// Label: 宠物
-			// Tooltip: Toggles all Pets
+			Label: 宠物
+			Tooltip: 切换所有宠物
 		}
 	}
 }
