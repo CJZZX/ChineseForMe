@@ -1,0 +1,1487 @@
+LocalizedText: {
+	CounterweightPerYoyo: 每个悠悠球命中后会产生一个平衡锤
+	YoyoShimmer: 悠悠球可以穿透方块
+	MoreAccessorySlots: 给玩家更多悠悠球饰品栏位
+	DrillsAndCounterweights: 为钻头和平衡锤添加栏位
+	SupportGlove: 为护手添加一个栏位
+	YoyoRings: 为悠悠球戒指添加一个栏位
+	AdditionalYoyo: 添加一个额外的悠悠球
+	FastRecall: 收球更快
+	MasterYoyoSkills: 给使用者大师级悠悠球技术
+	IncreasedYoyoKnockback: 增加悠悠球击退力
+	HoldDown: "[c/6FD4FF:按'下'键查看悠悠球能力信息]"
+	NoRing: "[c/6FD4FF:未检测到能力戒指，装备一个查看悠悠球能力]"
+	NoAbility: "[c/6FD4FF:这个悠悠球没有能力或者特殊效果]"
+	YoyoAbilitySnippet: "[c/6FD4FF:-=悠悠球能力=-]"
+	150YoyoRange: "[c/6EAE6E:+150悠悠球范围]"
+	TrickSlot: 添加一个技巧栏位
+	PrefixWarning: 物品在此栏时，前缀失效
+	SlotPrefix: 物品前缀失效
+	VanityStrings: 装饰悠悠球线
+	YoyoStrings: 悠悠球线
+	RightHand: 右手
+	YoyoGloves: 悠悠球手套
+	LeftHand: 左手
+	SupportGloves: 护手
+	DrillCasings: 钻头
+	YoyoCounterweights: 悠悠球平衡锤
+	Rings: 戒指
+	Tricks: 技巧
+
+	Abilities: {
+		BlackHole: 制造一个巨大漩涡，造成悠悠球伤害的40%
+		HardmodeYoyos: 制造一个中等的伤害性气旋，造成悠悠球伤害的50%
+		Tempest: 制造一个巨大的伤害性气旋，造成悠悠球伤害的75%
+		Code2: 每命中5次制造爆炸，造成悠悠球伤害的50%
+		Yelets: 射出8个树叶，造成悠悠球伤害的50%
+		TrueYoyos: 制造一个巨大的伤害性气旋，造成悠悠球伤害的60%
+		Cascade: 每命中5次制造爆炸， 造成悠悠球伤害的150%
+		Valor: 制造追踪水弹，接触后爆炸，造成区域性伤害
+		EvilYoyos: 命中后治疗玩家
+		Rally: 复制3个旋转的悠悠球，造成悠悠球伤害的50%
+		Code1: 复制6个旋转的悠悠球，造成悠悠球伤害的50%
+		Crowyo: 射出黑色追踪羽毛，造成悠悠球伤害的40%
+		ChristmasBulb:
+			'''
+			每30次攻击产生8个爆炸装饰品
+			连续命中才会触发
+			装饰品仅有一半伤害
+			'''
+		Code3:
+			'''
+			制造一个中型气旋，造成悠悠球伤害的65%
+			命中20次， 制造一个大型气旋，造成悠悠球伤害的75%
+			'''
+		Convergence: 射出其汇聚的所有悠悠球
+		CultistYoyo:
+			'''
+			制造一个神秘气旋，造成悠悠球伤害的75%
+			'''
+		Mambele:
+			'''
+			每30次攻击产生8个持续燃烧的火球
+			连续命中才会触发
+			火球仅有一半伤害
+			'''
+		Abbhor:
+			'''
+			制造一个中等的伤害性气旋，造成悠悠球伤害的40%
+			命中20次， 制造一个更大的气旋，造成悠悠球伤害的60%
+			'''
+		FormatC:
+			'''
+			复制4个旋转悠悠球，造成悠悠球伤害的80%
+			悠悠球被收回时，这些复制品会分裂开然后飞走
+			'''
+		HelFire: 对目标造成燃烧效果，产生巨大燃烧伤害
+		Amarok: 每秒射出8个冰刺，造成悠悠球伤害的60%
+		Gradient:
+			'''
+			复制8个旋转悠悠球，造成悠悠球伤害的100%
+			悠悠球被收回时，这些复制品会分裂开然后飞走
+			它们会追踪靠近的敌人
+			'''
+		EOCYoyo:
+			'''
+			有两个阶段
+			一阶段: 射出激光，造成悠悠球伤害的45%
+			二阶段: 射出诅咒焰，造成悠悠球伤害的50%并产生诅咒狱火
+			'''
+	}
+}
+
+TownNPCMood: {
+	ExamplePerson: {
+		LoveBiome: 我喜欢森林，有很多很棒的风景和生物
+		LikeBiome: 我不介意沙漠，可能因为我感受不到热量
+		DislikeBiome: 我不太喜欢这，这里让我脊柱发抖
+		LoveSpace: 这些屋子都归我当然很好，但我并不介意来点人跟我聊聊，太孤独了
+		NoHome: 在我的旅途里，我总是居无定所，我真的想最后放下行李然后在什么地方住一阵
+		DislikeCrowded: 这里比我想象的人要多
+		HateCrowded: 这里也太挤了
+		LoveNPC: 我跟机械师处的很好，她知道怎么谈生意
+		DislikeNPC: 我不希望爆破专家在这，我讨厌他鲁莽的态度
+		LikeNPC_Princess: 感觉...这里更平静，不过我的手不能完全放上去了
+	}
+}
+
+Dialogue: {
+	ExamplePerson: {
+		StandardDialogue1: 来看看我的悠悠球藏品
+		StandardDialogue2: 人们总以为我喜欢地下，就因为我是骷髅，呵呵...我并不喜欢
+		StandardDialogue3: 我玩悠悠球时间很长了，但这并不阻止我收集跟贩卖他们
+		StandardDialogue4: 有人说我长得像我兄弟，我不太同意
+		StandardDialogue5: 身为骷髅并不全是坏处，有时候我喜欢玩我的肋骨，跟木琴一样
+		StandardDialoge6: 阴森怪异骷髅人...你再骂？
+		CommonDialoge1: 你知道吗，我很惊讶这里的每个人都很包容我，通常人们都只会尖叫然后朝我扔东西
+	}
+}
+
+Achievements: {
+	AbbhorAchievement: {
+		Name: 来得容易扔得也快
+		Description: 锻造憎恨球，蕴含黑暗能量的强大武器。
+	}
+
+	Code1Achievement: {
+		Name: 我要成为悠悠侠！
+		Description: 获得代码1球。
+	}
+
+	Code2Achievement: {
+		Name: 坚持悠悠
+		Description: 制作代码2球。
+	}
+
+	ConverganceAchievement: {
+		Name: 无线接触
+		Description: 将所有悠悠球合并成终极悠悠球，即汇聚球
+	}
+}
+
+Buffs: {
+	Clotted: {
+		DisplayName: 凝结
+		Description: 生命流失
+	}
+
+	Combustion: {
+		DisplayName: 燃烧
+		Description: 在火中爆炸
+	}
+
+	Corrupt: {
+		DisplayName: 腐败
+		Description: 生命流失
+	}
+
+	Frostbite: {
+		DisplayName: 冻伤
+		Description: 冻住不许走
+	}
+
+	Hallowed: {
+		DisplayName: 神圣
+		Description: 灵魂在蒸发
+	}
+
+	Omnipotence: {
+		DisplayName: 全能
+		Description: 发光
+	}
+
+	Osteopenia: {
+		DisplayName: 骨质疏松
+		Description: 防御和力量减少
+	}
+
+	Pestilence: {
+		DisplayName: 瘟疫
+		Description: 生命值迅速流失
+	}
+}
+
+Projectiles: {
+	AdamantiteDrill.DisplayName: Yoyo Drill
+	CelestialDrill.DisplayName: Yoyo Drill
+	CelestialDrill2.DisplayName: Yoyo Drill
+	CobaltDrill.DisplayName: Yoyo Drill
+	Hakapik.DisplayName: Yoyo Drill
+	HorsemansDrill.DisplayName: Yoyo Drill
+	IronDrill.DisplayName: Yoyo Drill
+	Mattock.DisplayName: Yoyo Drill
+	MooMooDrill.DisplayName: Yoyo Drill
+	MythrilDrill.DisplayName: Yoyo Drill
+	NebulaDrill.DisplayName: Yoyo Drill
+	NinjaStar.DisplayName: Yoyo Drill
+	OrichalcumDrill.DisplayName: Yoyo Drill
+	PalladiumDrill.DisplayName: Yoyo Drill
+	ShadowflameDrill.DisplayName: Yoyo Drill
+	ShroomiteShredder.DisplayName: Yoyo Drill
+	SolarDrill.DisplayName: Yoyo Drill
+	SpectralShredder.DisplayName: Yoyo Drill
+	StardustDrill.DisplayName: Yoyo Drill
+	TheScooper.DisplayName: Yoyo Drill
+	TitaniumDrill.DisplayName: Yoyo Drill
+	TreeClippers.DisplayName: Yoyo Drill
+	Tsurugi.DisplayName: Yoyo Drill
+	VortexDrill.DisplayName: Yoyo Drill
+	BlueExplosion.DisplayName: Blue Explosion
+	DeprecatedExplosion.DisplayName: Deprecated Explosion
+	EclipseExplosion.DisplayName: Eclipse Explosion
+	FireExplosion.DisplayName: Fire Explosion
+	RedExplosion.DisplayName: Red Explosion
+	SolarExplosion.DisplayName: Solar Explosion
+	BlueShieldSwirl.DisplayName: Shield Swirl Blue
+	BlueShieldSwirlDuo.DisplayName: Shield Swirl Blue Duo
+	BlueShieldSwirlReverse.DisplayName: Shield Swirl Red Reverse
+	BlueSwirl2.DisplayName: Blue Swirl 2
+	Code1Swirl.DisplayName: Code 1 Swirl
+	CurveCat.DisplayName: Curve Cat
+	CurveDuo.DisplayName: Curve Duo
+	CurveEffect.DisplayName: Orange Swirl
+	CurveNebula.DisplayName: Curve Nebula
+	CurveOrange.DisplayName: Curve Orange
+	CurveStardust.DisplayName: Curve Stardust
+	CurveTuna.DisplayName: Curve Tuna
+	CurveVortex.DisplayName: Curve Vortex
+	FormatClaySwirl.DisplayName: Format Clay Swirl
+	GloveBlue.DisplayName: Glove Blue
+	GloveGreen.DisplayName: Glove Green
+	GloveRed.DisplayName: Glove Red
+	GloveWhite.DisplayName: Glove White
+	GloveYellow.DisplayName: Glove Yellow
+	GradientClaySwirl.DisplayName: Gradient Clay Swirl
+	GreenShieldSwirlDuo.DisplayName: Shield Swirl Green Duo
+	IcePartSwirl.DisplayName: Ice Part Swirl
+	IceSwirl.DisplayName: Ice Swirl
+	IceSwirlInner.DisplayName: Ice Swirl Inner
+	InnerSwirl2Red.DisplayName: Inner Swirl Red 2
+	InnerSwirl2Yellow.DisplayName: Inner Swirl Yellow 2
+	JaggedShieldSwirlDarkBlue.DisplayName: Jagged Shield Swirl Dark Blue
+	JaggedShieldSwirlGreen.DisplayName: Jagged Shield Swirl Green
+	JaggedShieldSwirlPurple.DisplayName: Jagged Shield Swirl Purple
+	JaggedShieldSwirlRed.DisplayName: Jagged Shield Swirl Purple
+	JaggedShieldSwirlSkyBlue.DisplayName: Jagged Shield Swirl Sky Blue
+	JaggedShieldSwirlTempest.DisplayName: Jagged Shield Swirl Tempest
+	JaggedShieldSwirlYellow.DisplayName: Jagged Shield Swirl Yellow
+	JaggedSwirlPurple.DisplayName: Jagged Swirl Purple
+	JaggedSwirlRed.DisplayName: Jagged Swirl Red
+	JaggedSwirlSmudge.DisplayName: Jagged Swirl Smudge
+	JaggedSwirlTempest.DisplayName: Jagged Swirl Tempest
+	JaggedSwirlWhite.DisplayName: Jagged Swirl White
+	JaggedSwirlYellow.DisplayName: Jagged Swirl Yellow
+	MotaiCurveDuo.DisplayName: Motai Curve Duo
+	MotaiSwirl.DisplayName: Motai Swirl
+	MotaiSwirl2.DisplayName: Ice Swirl Inner
+	MythrilPartSwirl.DisplayName: Mythril Part Swirl
+	MythrilSwirl.DisplayName: Mythril Swirl
+	OuterSwirlRed.DisplayName: Outer Swirl Red
+	PinkPartSwirl.DisplayName: Pink Part Swirl
+	PinkSwirl.DisplayName: Pink Swirl
+	PurpleShieldSwirl.DisplayName: Shield Swirl Purple
+	PurpleShieldSwirl2.DisplayName: Shield Swirl Purple 2
+	PurpleShieldSwirlReverse.DisplayName: Shield Swirl Purple Reverse
+	RedShieldSwirl.DisplayName: Shield Swirl Red
+	RedShieldSwirl2.DisplayName: Shield Swirl Red 2
+	RedShieldSwirlDuo.DisplayName: Shield Swirl Red Duo
+	RedSwirl2.DisplayName: Red Swirl 2
+	Background.DisplayName: Red Background
+	CultistRing1.DisplayName: Cultist Ring 1
+	CultistRing2.DisplayName: Cultist Ring 2
+	CultistRingDamage.DisplayName: Cultist Ring 3
+	EclipseSwirl.DisplayName: Eclipse Swirl More-Orange-Than-The-Other-One
+	EclipseSwirlOrange.DisplayName: Eclipse Swirl Orange
+	SmudgeHitbox.DisplayName: Smudge Hitbox
+	SolidHitbox.DisplayName: Solid Hitbox
+	Sparkle1.DisplayName: Sparkle 1
+	Sparkle2.DisplayName: Sparkle 2
+	Sparkle3.DisplayName: Sparkle 1
+	Swirl.DisplayName: Cascade Inner Swirl
+	SwirlBlue.DisplayName: Swirl Sovereign
+	SwirlGreen.DisplayName: Swirl Green
+	SwirlPurple.DisplayName: Swirl Purple
+	SwirlRed.DisplayName: Swirl Red
+	SwirlStar.DisplayName: Star Yoyo Swirl
+	SwirlTeal.DisplayName: Swirl Teal
+	TempestSpike.DisplayName: Tempest Spike
+	TunaOuterSwirl.DisplayName: Tuna Outer Swirl
+	TunaSwirlInner.DisplayName: Tuna Swirl Inner
+	CatacombProjectile.DisplayName: Catacomb Projectile
+	CatProjectile.DisplayName: Cat Projectile
+	ChristmasBulbProjectile.DisplayName: Christmas Bulb Projectile
+	CobaltYoyoProjectile.DisplayName: Cobalt Yoyo Projectile
+	Code3Projectile.DisplayName: Code3 Projectile
+	CragProjectile.DisplayName: Crag Projectile
+	CultistYoyoProjectile.DisplayName: Cultist Yoyo Projectile
+	IronYoyoProjectile.DisplayName: Iron Yoyo Projectile
+	LeadYoyoProjectile.DisplayName: Lead Yoyo Projectile
+	MambeleProjectile.DisplayName: Mambele Projectile
+	MotaiProjectile.DisplayName: Motai Projectile
+	MythrilYoyoProjectile.DisplayName: Mythril Yoyo Projectile
+	OrichalcumYoyoProjectile.DisplayName: Orichalcum Yoyo Projectile
+	PalladiumYoyoProjectile.DisplayName: Palladium Yoyo Projectile
+	SmudgeProjectile.DisplayName: Smudge Projectile
+	SovereignProjectile.DisplayName: Sovereign Projectile
+	SpheruliteProjectile.DisplayName: Spherulite Projectile
+	TempestProjectile.DisplayName: Tempest Projectile
+	TestingYoyoProjectile.DisplayName: Testing Yoyo Projectile
+	TheAbbhorProjectile.DisplayName: The Abbhor Projectile
+	TheEnervationProjectile.DisplayName: The Enervation Projectile
+	TheMuscleYoyoProjectile.DisplayName: The Muscle Yoyo Projectile
+	TheQueensGambitProjectile.DisplayName: The Queens Gambit Projectile
+	ThinMintProjectile.DisplayName: Thin Mint Projectile
+	TocantinProjectile.DisplayName: Tocantin Projectile
+	TrueAbbhorProjectile.DisplayName: True Abbhor Projectile
+	TrueCode3Projectile.DisplayName: True Code3 Projectile
+	TrueSmudgeProjectile.DisplayName: True Smudge Projectile
+	TunaProjectile.DisplayName: Tuna Projectile
+	HelFireExplosion.DisplayName: Hel-Fire Explosion
+	WaterExplosion.DisplayName: Water Explosion
+	BlackHoleSparkle.DisplayName: Sparkle
+	Code1Effect.DisplayName: Code1 Effect
+	FormatCEffect.DisplayName: Format C Effect
+	GradientEffect.DisplayName: Gradient Effect
+	RallyEffect.DisplayName: Rally Effect
+	World1.DisplayName: World1
+	World2.DisplayName: World2
+	BlackHole.DisplayName: Black Hole
+	BlackHole2.DisplayName: Black Hole 2
+	BlackHole4.DisplayName: Black Hole 4
+	BlackHoleCenter1.DisplayName: Black Hole Center 1
+	BlackHoleCenter2.DisplayName: Black Hole Center 2
+	BlackHoleProjectile.DisplayName: Black Hole Projectile
+	ConverganceProjectile.DisplayName: Convergance Projectile
+	CragHomingExplosive.DisplayName: Crag Homing Explosive
+	HomingWaterBolt.DisplayName: Homing Water Bolt
+	EmpressProjectile.DisplayName: Empress Projectile
+	Excavator.DisplayName: Excavator
+	StoneAgeProjectile.DisplayName: Stone Age Projectile
+	TheCrowyoProjectile.DisplayName: The Crowyo Projectile
+	CrowyoFeather.DisplayName: Crowyo Feather
+}
+
+Items: {
+	AdamantiteDrillCasing: {
+		DisplayName: 精金钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:180% 镐力]
+			'''
+	}
+
+	CelestialDrillCasing: {
+		DisplayName: 天界钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+1范围
+			'''
+	}
+
+	CelestialDrillCasingExtended: {
+		DisplayName: 天界钻头+
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+2范围
+			'''
+	}
+
+	CobaltDrillCasing: {
+		DisplayName: 钴钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:110% 镐力]
+			'''
+	}
+
+	HakapikDrillCasing: {
+		DisplayName: 刺棒
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			一种起源于挪威的工具
+			'''
+	}
+
+	HorsemansDrillCasing: {
+		DisplayName: 骑兵钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	MattockDrillCasing: {
+		DisplayName: 鹤嘴锄钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	MooMooDrillCasing: {
+		DisplayName: MooMoo的钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+2范围
+			'''
+	}
+
+	MythrilDrillCasing: {
+		DisplayName: 秘银钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:150% 镐力]
+			'''
+	}
+
+	NebulaDrillCasing: {
+		DisplayName: 星云钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+1范围
+			'''
+	}
+
+	NinjaStarCasing: {
+		DisplayName: 忍者之星
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:210% 镐力]
+			'''
+	}
+
+	OrichalcumDrillCasing: {
+		DisplayName: 山铜钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/F3BDFF:165% 镐力]
+			'''
+	}
+
+	PalladiumCasing: {
+		DisplayName: 钯金钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:130% 镐力]
+			'''
+	}
+
+	ShadowflameDrillCasing: {
+		DisplayName: 暗影焰钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:210% 镐力]
+			'''
+	}
+
+	ShroomiteShredderCasing: {
+		DisplayName: 蘑菇矿粉碎机
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	SolarDrillCasing: {
+		DisplayName: 日耀钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+1范围
+			'''
+	}
+
+	SpectralShredderCasing: {
+		DisplayName: 灵能粉碎机
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			从中散发出甜美的雾气
+			呈钻石形挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	StardustDrillCasing: {
+		DisplayName: 星尘钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+1范围
+			'''
+	}
+
+	TheScooperDrillCasing: {
+		DisplayName: 挖掘者
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	TitaniumDrillCasing: {
+		DisplayName: 钛金钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:190% 镐力]
+			'''
+	}
+
+	TreeClippersDrillCasing: {
+		DisplayName: 园艺剪
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:200% 镐力]
+			'''
+	}
+
+	TsurugiDrillCasing: {
+		DisplayName: 瑟鲁基之剑
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:210% 镐力]
+			+1范围
+			可开采丛林蜥蜴砖
+			'''
+	}
+
+	VortexDrillCasing: {
+		DisplayName: 星旋钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:250% 镐力]
+			+1范围
+			'''
+	}
+
+	YoyoDrillCasing: {
+		DisplayName: 钻头
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			[c/BCFFF0:100% 镐力]
+			'''
+	}
+
+	HitDisplay: {
+		DisplayName: 机械点击者
+		Tooltip: 显示当前的连续命中数
+	}
+
+	SpeedDisplay: {
+		DisplayName: 悠悠球雷达
+		Tooltip: 显示悠悠球能移动多快
+	}
+
+	AbilityRing: {
+		DisplayName: 能力戒指
+		Tooltip:
+			'''
+			[c/FF00AB:允许悠悠球使用它们的特殊能力]
+			悠悠球会显示触发能力所需的条件
+			'''
+	}
+
+	AmberRing: {
+		DisplayName: 琥珀戒指
+		Tooltip: 悠悠球会发出琥珀亮光
+	}
+
+	AmethystRing: {
+		DisplayName: 紫晶戒指
+		Tooltip: 悠悠球会发出紫晶亮光
+	}
+
+	DiamondRing: {
+		DisplayName: 钻石戒指
+		Tooltip: 悠悠球会发出钻石亮光
+	}
+
+	EmeraldRing: {
+		DisplayName: 翡翠戒指
+		Tooltip: 悠悠球会发出翡翠亮光
+	}
+
+	FortitudeRing: {
+		DisplayName: 勇气戒指
+		Tooltip: 增加所有悠悠球的击退
+	}
+
+	GemstoneRing: {
+		DisplayName: 宝石戒指
+		Tooltip: 悠悠球会发出各色亮光
+	}
+
+	HoneyRing: {
+		DisplayName: 蜂蜜戒指
+		Tooltip:
+			'''
+			增加友好蜜蜂的力量
+			可以装备在饰品栏
+			'''
+	}
+
+	OmnipotenceRing: {
+		DisplayName: 洞察戒指
+		Tooltip: 略微增加悠悠球速度
+	}
+
+	RingOfCoalescence: {
+		DisplayName: 凝聚戒指
+		Tooltip:
+			'''
+			增加悠悠球击退
+			略微增加悠悠球速度
+			所有悠悠球伤害提高5%
+			'''
+	}
+
+	RubyRing: {
+		DisplayName: 鲁比戒指
+		Tooltip: 悠悠球会发出红色亮光
+	}
+
+	SapphireRing: {
+		DisplayName: 萨菲戒指
+		Tooltip: 悠悠球会发出蓝色亮光
+	}
+
+	TerreneRing: {
+		DisplayName: 大地戒指
+		Tooltip:
+			'''
+			[c/FF00AB:允许悠悠球使用它们的特殊能力]
+			悠悠球会显示触发能力所需的条件
+			增加悠悠球击退
+			略微增加悠悠球速度
+			所有悠悠球伤害增加5%
+			'''
+	}
+
+	TopazRing: {
+		DisplayName: 黄玉戒指
+		Tooltip: 悠悠球会发出黄色亮光
+	}
+
+	TrepidationRing: {
+		DisplayName: 恐惧戒指
+		Tooltip: 所有悠悠球伤害增加5%
+	}
+
+	DarkBlueString: {
+		DisplayName: 深蓝绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	DarkGreenString: {
+		DisplayName: 深绿绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	EclipseString: {
+		DisplayName: 日食绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			感觉非常重
+			悠悠球在命中时产生挥击伤害
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+2 悠悠球速度]
+			'''
+	}
+
+	FrostbiteString: {
+		DisplayName: 冻伤绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			平衡锤产生冻伤
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+2 悠悠球速度]
+			'''
+	}
+
+	GolemsteelString: {
+		DisplayName: 石巨人钢绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			平衡锤造成巨大击退且增加伤害
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+2 悠悠球速度]
+			'''
+	}
+
+	LightPinkString: {
+		DisplayName: 淡粉绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	NaniteString: {
+		DisplayName: 纳米绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			悠悠球绳变得看不见了
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+2 悠悠球速度]
+			'''
+	}
+
+	NebulaString: {
+		DisplayName: 星云绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+250悠悠球范围]
+			[c/6EAE6E:+3 悠悠球速度]
+			[c/6EAE6E:+5% 基础悠悠球伤害]
+			'''
+	}
+
+	SlimyString: {
+		DisplayName: 史莱姆绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			悠悠球产生史莱姆覆盖的尖刺
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	SolarString: {
+		DisplayName: 日耀绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+250悠悠球范围]
+			[c/6EAE6E:+3 悠悠球速度]
+			[c/6EAE6E:+5% 基础悠悠球伤害]
+			'''
+	}
+
+	CrimtaneBearing: {
+		DisplayName: 猩红悠悠球轴承
+		Tooltip: 悠悠球命中会吸血
+	}
+
+	DemoniteBearing: {
+		DisplayName: 魔矿悠悠球轴承
+		Tooltip: 悠悠球命中会吸血
+	}
+
+	HallowedBearing: {
+		DisplayName: 神圣悠悠球轴承
+		Tooltip: 悠悠球产生神圣攻击敌人
+	}
+
+	JungleBearing: {
+		DisplayName: 丛林悠悠球轴承
+		Tooltip: 悠悠球有几率产生瘟疫攻击敌人
+	}
+
+	ObsidianBearing: {
+		DisplayName: 黑曜石悠悠球轴承
+		Tooltip: 所有悠悠球产生火焰伤害
+	}
+
+	WaspBearing: {
+		DisplayName: 黄蜂轴承
+		Tooltip:
+			'''
+			悠悠球会产生黄蜂
+			"根据目前所有已知的飞行定律，蜜蜂是不可能飞起来的。"
+			'''
+	}
+
+	YoyoBearing: {
+		DisplayName: 悠悠球轴承
+		Tooltip: 悠悠球轴承会提供特殊效果
+	}
+
+	ShimmerSupportGloveEarth: {
+		DisplayName: 微光绿色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出绿光
+			悠悠球仅有一半伤害
+			释放一个额外的平衡锤
+			'''
+	}
+
+	ShimmerSupportGloveElectricity: {
+		DisplayName: 微光黄色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出黄光
+			悠悠球仅有一半伤害
+			释放一个额外的平衡锤
+			'''
+	}
+
+	ShimmerSupportGloveFire: {
+		DisplayName: 微光红色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出红光
+			悠悠球仅有一半伤害
+			释放一个额外的平衡锤
+			'''
+	}
+
+	ShimmerSupportGloveWater: {
+		DisplayName: 微光蓝色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出蓝光
+			悠悠球仅有一半伤害
+			释放一个额外的平衡锤
+			'''
+	}
+
+	SolarGlove: {
+		DisplayName: 日耀手套
+		Tooltip:
+			'''
+			自动释放第二个悠悠球
+			悠悠球发出白光
+			悠悠球攻击产生强力爆炸
+			'''
+	}
+
+	SupportGloveEarth: {
+		DisplayName: 绿色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出绿光
+			悠悠球仅有一半伤害
+			'''
+	}
+
+	SupportGloveElectricity: {
+		DisplayName: 黄色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出黄光
+			悠悠球仅有一半伤害
+			'''
+	}
+
+	SupportGloveFire: {
+		DisplayName: 红色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:悠需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出红光
+			悠悠球仅有一半伤害
+			'''
+	}
+
+	SupportGloveWater: {
+		DisplayName: 蓝色护手
+		Tooltip:
+			'''
+			[c/FFC3C3:需要悠悠球手套才能使用]
+			释放一个额外的悠悠球
+			悠悠球发出蓝光
+			悠悠球仅有一半伤害
+			'''
+	}
+
+	UpgradedYoyoGlove: {
+		DisplayName: 进阶悠悠球手套
+		Tooltip:
+			'''
+			自动释放第二个悠悠球
+			悠悠球发出白光
+			'''
+	}
+
+	EclipseBar: {
+		DisplayName: 日食锭
+		Tooltip: 散发着来自异界的能量
+	}
+
+	FrightBar: {
+		DisplayName: 恐惧锭
+		Tooltip: "'由可怕生物的精华锻造而成'"
+	}
+
+	MightBar: {
+		DisplayName: 力量锭
+		Tooltip: "'由强大生物的精华锻造而成'"
+	}
+
+	NeutralineScrap: {
+		DisplayName: 中性线碎片
+		Tooltip: 来自危险武器的熔渣
+	}
+
+	SightBar: {
+		DisplayName: 视野锭
+		Tooltip: "'由全视生物的精华锻造而成'"
+	}
+
+	DevAccessoryBag: {
+		DisplayName: 悠悠球饰品袋
+		Tooltip:
+			'''
+			{$CommonItemTooltip.RightClickToOpen}
+			有机会获得稀有战利品
+			'''
+	}
+
+	BrokenHeroRing: {
+		DisplayName: 断裂英雄戒指
+		Tooltip: ""
+	}
+
+	BrokenHeroYoyo: {
+		DisplayName: 断裂英雄悠悠球
+		Tooltip: ""
+	}
+
+	SoulOfEclipse: {
+		DisplayName: 日食之魂
+		Tooltip: "'异界生物的精华'"
+	}
+
+	Cat: {
+		DisplayName: 灾厄
+		Tooltip: '''"马上给我呆b模组"'''
+	}
+
+	Catacomb: {
+		DisplayName: 墓穴球
+		Tooltip: ""
+	}
+
+	ChristmasBulb: {
+		DisplayName: 圣诞灯炮球
+		Tooltip:
+			'''
+			紧紧缠绕着圣诞树灯
+			闻起来像新鲜的松树
+			'''
+	}
+
+	CobaltYoyo: {
+		DisplayName: 钴悠悠球
+		Tooltip: ""
+	}
+
+	Code3: {
+		DisplayName: 代码3球
+		Tooltip: '''"期待已久的代码3"'''
+	}
+
+	Convergance: {
+		DisplayName: 汇聚球
+		Tooltip:
+			'''
+			毁灭巅峰间
+			光芒中间现
+			'''
+	}
+
+	Crag: {
+		DisplayName: 悬崖
+		Tooltip: "'它是火焰构成的！'"
+	}
+
+	CultistYoyo: {
+		DisplayName: 邪教徒球
+		Tooltip: ""
+	}
+
+	IronYoyo: {
+		DisplayName: 铁悠悠球
+		Tooltip: ""
+	}
+
+	LeadYoyo: {
+		DisplayName: 铅悠悠球
+		Tooltip: ""
+	}
+
+	Mambele: {
+		DisplayName: 南瓜哀木球
+		Tooltip:
+			'''
+			覆盖着粗糙颗粒
+			闻起来像烧焦的木头
+			'''
+	}
+
+	Melanoid: {
+		DisplayName: 病变
+		Tooltip: 造成轻微烫伤
+	}
+
+	Motai: {
+		DisplayName: Motai
+		Tooltip: 特别感谢最2开发者Motai
+	}
+
+	MythrilYoyo: {
+		DisplayName: 秘银悠悠球
+		Tooltip: ""
+	}
+
+	OrichalcumYoyo: {
+		DisplayName: 山铜悠悠球
+		Tooltip: ""
+	}
+
+	PalladiumYoyo: {
+		DisplayName: 钯金悠悠球
+		Tooltip: ""
+	}
+
+	Smudge: {
+		DisplayName: 污浊球
+		Tooltip:
+			'''
+			对鬼魂伤害增加
+			在墓地时，其释放出的蓝色火焰提供2倍伤害
+			"你的宽限期只剩6秒"
+			'''
+	}
+
+	Sovereign.DisplayName: 君主
+
+	TheAbbhor: {
+		DisplayName: 憎恨球
+		Tooltip: 纯粹力量的融合体
+	}
+
+	TheEnervation: {
+		DisplayName: 虚弱球
+		Tooltip:
+			'''
+			抑郁球更强、更有力的升级
+			命中吸收血量
+			'''
+	}
+
+	TheMuscle: {
+		DisplayName: 肌肉球
+		Tooltip:
+			'''
+			动脉球更强、更有力的升级
+			每击吸收血量
+			'''
+	}
+
+	TheQueensGambit: {
+		DisplayName: 蜂皇球
+		Tooltip:
+			'''
+			命中目标释放蜜蜂，有概率使其中毒
+			蜜蜂弥补了最初的伤害
+			可能会留下一片狼藉
+			"现在新增对蜂巢背包的支持！"
+			'''
+	}
+
+	TheTempest: {
+		DisplayName: 风暴球
+		Tooltip: ""
+	}
+
+	ThinMint: {
+		DisplayName: 薄荷巧克力球
+		Tooltip: '''"请别吃薄荷"'''
+	}
+
+	Tocantin: {
+		DisplayName: 多干青
+		Tooltip: 有机会使敌人中毒
+	}
+
+	TrueAbbhor: {
+		DisplayName: 原版憎恨球
+		Tooltip: ""
+	}
+
+	TrueCode3: {
+		DisplayName: 原版代码3球
+		Tooltip: 表现出强大的力量
+	}
+
+	TrueSmudge: {
+		DisplayName: 原版污浊球
+		Tooltip:
+			'''
+			无法获得 (未来将会移除！)
+			对鬼魂伤害增加
+			在墓地时，旋转有轻微伤害加成
+			"你的宽限期仅有12秒"
+			'''
+	}
+
+	Tuna.DisplayName: 金枪鱼
+
+	DarkTealString: {
+		DisplayName: 深青绿绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	GrapeString: {
+		DisplayName: 葡萄紫绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			闻起来像葡萄
+			[c/6EAE6E:+150悠悠球范围]
+			[c/6EAE6E:+1 悠悠球速度]
+			'''
+	}
+
+	StardustString: {
+		DisplayName: 星尘绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+250悠悠球范围]
+			[c/6EAE6E:+3 悠悠球速度]
+			[c/6EAE6E:+5% 基础悠悠球伤害]
+			'''
+	}
+
+	VortexString: {
+		DisplayName: 星旋绳
+		Tooltip:
+			'''
+			增加悠悠球范围
+			[c/6EAE6E:+250悠悠球范围]
+			[c/6EAE6E:+3 悠悠球速度]
+			[c/6EAE6E:+5% 基础悠悠球伤害]
+			'''
+	}
+
+	AroundTheWorld: {
+		DisplayName: 一级小小星球
+		Tooltip:
+			'''
+			低端技巧
+			产生一个分裂的悠悠球环绕在玩家身边，造成0.3倍伤害。
+			[c/FFFF4A:范围与当前悠悠球范围的百分比叠加]
+			激活产生一个悠悠球
+			'''
+	}
+
+	AroundTheWorldTier2: {
+		DisplayName: 二级小小星球
+		Tooltip:
+			'''
+			中端技巧
+			产生两个分裂的悠悠球环绕在玩家身边，造成0.5倍伤害。
+			[c/FFFF4A:范围与当前悠悠球范围的百分比叠加]
+			激活产生两个悠悠球
+			'''
+	}
+
+	SupportGlove: {
+		DisplayName: 护手
+		Tooltip: 允许使用第三个悠悠球
+	}
+
+	BlackHole: {
+		DisplayName: 黑洞球
+		Tooltip:
+			'''
+			旋转快到产生能量漩涡，形成了毁灭性的黑洞
+			Turbanik制作
+			'''
+	}
+
+	ShimmerBag: {
+		DisplayName: 微光悠悠球袋
+		Tooltip: ""
+	}
+
+	Tier2Bag: {
+		DisplayName: 悠悠球手提箱
+		Tooltip: ""
+	}
+
+	BeetleBag: {
+		DisplayName: 甲虫袋
+		Tooltip: ""
+	}
+
+	EmpressYoyo: {
+		DisplayName: 灵能球
+		Tooltip: 蕴含驾驭光之女皇的巨大力量
+	}
+
+	AdvancedYoyoBag: {
+		DisplayName: 外星命令袋
+		Tooltip:
+			'''
+			允许玩家忽略最大绳长
+			[c/FF3CEC:+无限悠悠球范围]
+			'''
+	}
+
+	ExcavatorCasing: {
+		DisplayName: 挖掘机
+		Tooltip:
+			'''
+			允许悠悠球挖掘方块
+			按住右键进行挖掘
+			小心别毁了你的家！
+			[c/FF255F:250% 镐力]
+			+10范围
+			'''
+	}
+
+	ShimmeringBeetleBag: {
+		DisplayName: 微光甲虫袋
+		Tooltip: ""
+	}
+
+	StoneAge: {
+		DisplayName: 石器时代
+		Tooltip:
+			'''
+			有概率困惑敌人
+			"格鲁格的逆天技巧"
+			'''
+	}
+
+	DualYoyo: {
+		DisplayName: 双悠悠球
+		Tooltip:
+			'''
+			高端技巧
+			允许玩家[c/E232D6:挥舞2个不同的悠悠球]
+			悠悠球手套产生的悠悠球都会被视为第二个悠悠球
+			[c/FFFF4A:第二个悠悠球必须放在物品栏中所持悠悠球的右侧]
+			'''
+	}
+
+	MoonlordBag: {
+		DisplayName: 月亮领主袋
+		Tooltip: ""
+	}
+
+	ShootToTheMoon: {
+		DisplayName: 射向月亮
+		Tooltip:
+			'''
+			中端技巧
+			[c/E475FF:给悠悠球手套产生的额外悠悠球增加范围]
+			'''
+	}
+
+	TheCrowyo: {
+		DisplayName: 乌鸦球
+		Tooltip:
+			'''
+			"饿到吃马"
+			在Discord成员几个月的不断纠缠下创建的
+			'''
+	}
+}
+
+InfoDisplays: {
+	HitInfo.DisplayName: 悠悠球命中计数器
+	IDInfo.DisplayName: 内部射弹ID
+	SpeedInfo.DisplayName: 悠悠球速度显示
+	StringInfo.DisplayName: 悠悠球线颜色
+}
+
+NPCs: {
+	ExamplePerson: {
+		DisplayName: 骷髅贩子
+
+		TownNPCMood: {
+			Content: 我很满足。
+			NoHome: 我讨厌没有家。
+			FarFromHome: 我离家太远了。
+			LoveSpace: 我非常喜欢有这么大的空间。	
+			DislikeCrowded: 我不喜欢这么拥挤。
+			HateCrowded: 我讨厌这么拥挤。
+			LoveBiome: 我非常喜欢{BiomeName}。
+			LikeBiome: 我喜欢{BiomeName}。
+			DislikeBiome: 我不喜欢{BiomeName}。
+			HateBiome: 我讨厌{BiomeName}。
+			LoveNPC: 我喜欢{NPCName}。
+			LikeNPC: 我喜欢{NPCName}。
+			DislikeNPC: 我不喜欢{NPCName}。
+			HateNPC: 我讨厌{NPCName}。
+			LikeNPC_Princess: 我喜欢{NPCName}。
+			Princess_LovesNPC: 我喜欢{NPCName}。
+		}
+	}
+}
+
+Conditions: {
+	MasterOrExpertMode: Mods.CombinationsMod.Conditions.MasterOrExpertMode
+	EaterOfWorldsOrBrain: Mods.CombinationsMod.Conditions.EaterOfWorldsOrBrain
+}
+
+Common: {
+	SmallChanges: 小更改
+	LargeChanges:
+		'''
+		绿色: 小影响
+		黄色: 中等影响
+		红色: 严重影响
+		请注意禁用大部分这些配置会导致敌人掉落或者制作的材料变得多余
+		'''
+}
+
+Configs: {
+	YoyoModConfig: {
+		UpscaleYoyoGlove: {
+			Tooltip: ""
+			Label: 增加悠悠球手套的显示尺寸
+		}
+
+		MainYoyoDust: {
+			Tooltip: 出于测试目的，制造一些粉尘在主悠悠球周围 (默认禁用)
+			Label: 主悠悠球产生粉尘
+		}
+
+		YoyoProjectileID: {
+			Tooltip: 显示手持悠悠球产生的抛射物的内部ID
+			Label: 显示悠悠球射弹ID
+		}
+
+		YoyoStringStats: {
+			Tooltip:
+				'''
+				显示玩家悠悠球线的内部颜色ID
+				(或许不会正常显示其他影响悠悠球线的mod的正确的值)
+				'''
+			Label: 显示玩家悠悠球线颜色
+		}
+
+		DisplayName: 模组配置
+
+		VanillaYoyoEffects: {
+			Label: 原版悠悠球效果
+			Tooltip: 启用/禁用原版悠悠球继承这个模组的附加效果 (默认启用)
+		}
+
+		LoadModdedYoyos: {
+			Label: 模组悠悠球
+			Tooltip: 启用/禁用模组悠悠球 (默认启用)
+		}
+
+		LoadModdedAccessories: {
+			Label: 模组饰品
+			Tooltip: 启用/禁用模组饰品 (默认启用)
+		}
+
+		EnableModifiedYoyoBag: {
+			Label: 改变悠悠球袋系统
+			Tooltip: 启用/禁用悠悠球袋系统 (默认启用)
+		}
+
+		LoadModdedItems: {
+			Label: 模组物品
+			Tooltip: 启用/禁用模组物品，包括悠悠球和饰品 (默认启用)
+		}
+
+		Headers: {
+			SmallChanges: 小更改
+			LargeChanges:
+				'''
+				大更改
+				绿色: 小影响
+				黄色: 中等影响
+				红色: 严重影响
+				请注意，禁用大部分这些设置会导致敌人掉落或者制作的材料变得多余
+				'''
+		}
+
+		AccessorySlotPosition: {
+			Tooltip: ""
+			Label: 饰品栏的位置
+		}
+
+		VanillaYoyoDamageChanges: {
+			Label: 改变原版悠悠球的伤害
+			Tooltip: 启用/禁用本模组对原版悠悠球状态数据的改变(默认启用)
+		}
+
+		AccessorySlotIndicators: {
+			Label: 饰品栏指示器
+			Tooltip: 启用/禁用指示哪种类型的物品放到哪个栏位.(默认启用)
+		}
+
+		EOCYoyoProgressionMovement: {
+			Label: 将克苏鲁悠悠球移至击败双子魔眼后
+			Tooltip: 启用/禁用克苏鲁悠悠球从击败蛾子后移至击败双子魔眼后 (默认启用)
+		}
+	}
+}
