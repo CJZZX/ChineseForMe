@@ -1,0 +1,278 @@
+Keybinds: {
+	"Blossom wings free flight.DisplayName": 泰拉绽放翼自由飞行
+	"Terrifle burst fire.DisplayName": 泰拉步枪爆炸开火
+}
+
+Items: {
+	Biosphere: {
+		DisplayName: 生物圈
+		Tooltip:
+			'''
+			连续攻击并打出连击
+			连击时命中目标会在短时间内提高武器的攻击速度
+			最多可叠加 4 次，并通过攻击速度BUFF进一步提高攻击速度
+			攻击速度BUFF也会提高连击效率
+			连击成功时可能会产生额外攻击
+			<right>召唤无限剑制飞向光标方向
+			'''
+	}
+
+	BlossomWings: {
+		DisplayName: 泰拉绽放翼
+		Tooltip:
+			'''
+			可飞行和缓慢坠落
+			按下泰拉绽放翼快捷键(默认为X)进入自由移动模式
+			使用钩爪或骑乘时会自动停用
+			'''
+	}
+
+	BranchofLife: {
+		DisplayName: 生命树枝法杖
+		Tooltip:
+			'''
+			召唤生命树来为你战斗
+			无法放置在平台上
+			'''
+	}
+
+	DeitysRage: {
+		DisplayName: 神怒
+		Tooltip:
+			'''
+			在风、闪电和树叶攻击之间循环
+			有轻微的后坐力，但被飞升之证抵消了
+			"你惹恼了上帝！"
+			'''
+	}
+
+	EarthSpirit: {
+		DisplayName: 大地之灵
+		Tooltip:
+			'''
+			蓄力后释放一支大地之箭
+			大地之箭在蓄满力后会爆炸，变成追踪的大地之灵
+			蓄力速度取决于攻击速度
+			'''
+	}
+
+	Ecosystem: {
+		DisplayName: 生态系统
+		Tooltip:
+			'''
+			<right>来切换下列模式
+			伐木者模式: 功能类似镐子和斧头，能将长成的树木从根部砍下，自动重新栽种
+			世界塑造者: 功能类似锤子
+			再生模式： 重新生长草木，在您行走的地方生长树叶
+			手持时发光
+			'''
+	}
+
+	EternalSpring: {
+		DisplayName: 永恒之春
+		Tooltip: 召唤花朵，分裂成为追踪花瓣
+	}
+
+	ExaltedHilt: {
+		DisplayName: 高贵剑柄
+		Tooltip:
+			'''
+			近战护甲穿透力提高5点
+			近战攻击会发射额外的射弹
+			根据使用的近战武器类型，改变射出射弹的行为
+			切换可见性来改变效果
+			攻击速度BUFF对射弹速度有60%的影响
+			"它的力量如此强大，长出了自己的利刃！"
+			'''
+	}
+
+	FairyLantern: {
+		DisplayName: 仙灵灯笼
+		Tooltip:
+			'''
+			召唤仙灵来为你战斗
+			不会占用仆从栏位，但一次只能生成一个
+			仆从栏位越多仙灵越强
+			在背包中生效
+			'''
+	}
+
+	Flora: {
+		DisplayName: 花卉球
+		Tooltip: 花朵能量围绕溜溜球旋转
+	}
+
+	ForceofNature: {
+		DisplayName: 自然之力
+		Tooltip:
+			'''
+			发射追踪泰拉镖
+			攻击时点击右键聚焦
+			聚焦时，它们的速度明显增加，但不会追踪
+			逐渐提高速度
+			不消耗弹药
+			'''
+	}
+
+	GeoGlaive: {
+		DisplayName: 地之长枪
+		Tooltip: 挥舞一次，然后反复刺击发射地之长枪射弹
+	}
+
+	Lifeline: {
+		DisplayName: 生命线
+		Tooltip:
+			'''
+			射出心电图样式的光束
+			当光束击中敌人时，它会变平并加速
+			"滴，滴，滴，滴，滴————————————"
+			'''
+	}
+
+	LoyalButterfly: {
+		DisplayName: 忠诚蝴蝶
+		Tooltip: 投掷具有弯曲轨迹的回旋镖
+	}
+
+	PristineEater: {
+		DisplayName: 纯净吞噬者
+		Tooltip:
+			'''
+			召唤一只可控的泰拉蠕虫
+			仆从栏位越多蠕虫越长
+			使用时消耗魔力值
+			魔力值耗尽时将无法控制蠕虫
+			可穿墙
+			'''
+	}
+
+	PurePelter: {
+		DisplayName: 纯净之枪
+		Tooltip:
+			'''
+			将合适的弹药转化为纯净子弹
+			每三发射出一次激光
+			'''
+	}
+
+	PureRune: {
+		DisplayName: 纯净符文
+		Tooltip:
+			'''
+			被动增加魔力再生
+			魔法攻击命中时重击敌人
+			'''
+	}
+
+	SpiritTorch: {
+		DisplayName: 灵魂火炬
+		Tooltip:
+			'''
+			仆从伤害提高10%
+			仆从命中敌人时有几率产生治疗火焰
+			启用可见性时，提供少量光亮
+			'''
+	}
+
+	Terralith: {
+		DisplayName: 泰拉鞭
+		Tooltip:
+			'''
+			在第三和第四次挥舞时旋转
+			命中时产生泰拉能量晶片
+			'''
+	}
+
+	TerraShield: {
+		DisplayName: 泰拉护盾
+		Tooltip:
+			'''
+			免疫大多数减益以及击退和火块
+			生命值高于10%时承受队友25%的伤害
+			当生命值较低时，在玩家周围形成一道冰屏障
+			减少治疗药水的冷却时间，并提供平缓的被动再生加成
+			召唤一个花盾，在碎裂前可阻挡一次射弹
+			破碎后，受到的伤害会小幅治疗玩家
+			护盾每10秒补充一次
+			护盾补充时，玩家将失去护盾带来的防御加成
+			'''
+	}
+
+	Terrasynthesis: {
+		DisplayName: 泰拉综合体
+		Tooltip:
+			'''
+			发射一道光束，击中光标所在位置
+			"现在你可以吞噬阳光了!"
+			'''
+	}
+
+	Terravolver: {
+		DisplayName: 泰拉手枪
+		Tooltip:
+			'''
+			远程攻击偶尔会召唤泰拉手枪，它会发射追踪子弹，造成当前武器3倍的伤害。
+			切换可见性来改变效果
+			'''
+	}
+
+	Terrifle: {
+		DisplayName: 泰拉步枪
+		Tooltip:
+			'''
+			远程攻击偶尔会召唤一把泰拉步枪，脉冲，造成当前武器3倍的伤害。
+			按下泰拉步枪爆炸开火快捷键(默认为Q)来进行爆炸开火
+			切换可见性来改变效果
+			'''
+	}
+}
+
+Projectiles: {
+	// Biosphere.DisplayName: Biosphere
+	// BlossomScythe.DisplayName: Blossom Scythe
+	// BlossomWings.DisplayName: Blossom Wings
+	// CardiogramLaser.DisplayName: Cardiogram Laser
+	// DeitysFury.DisplayName: Deity's Fury
+	// DeitysRage.DisplayName: Deity's Rage
+	// DeitysWrath.DisplayName: Deity's Wrath
+	// EarthArrow.DisplayName: Earth Arrow
+	// EarthSpirit.DisplayName: Earth Spirit
+	// EcoShield.DisplayName: Eco Shield
+	// EnergyWave.DisplayName: Energy Wave
+	// FairyShot.DisplayName: Fairy Shot
+	// Flora.DisplayName: Flora
+	// FloralEnergy.DisplayName: Floral Energy
+	// ForceofNature.DisplayName: Force of Nature
+	// GeoBeam.DisplayName: Geo Beam
+	// GeoGlaive.DisplayName: Geo Glaive
+	// GreatFairy.DisplayName: Great Fairy
+	// HealingFlame.DisplayName: Healing Flame
+	// LifeLeaf.DisplayName: Life Leaf
+	// LoyalButterfly.DisplayName: Loyal Butterfly
+	// NatureDart.DisplayName: Nature Dart
+	// PristineEater.DisplayName: Pristine Eater
+	// PristineStrike.DisplayName: Pristine Strike
+	// SpiritArrow.DisplayName: Spirit Arrow
+	// TerraBeam.DisplayName: Terra Beam
+	// TerraBlade.DisplayName: Terra Blade
+	// TerraBloom.DisplayName: Terra Bloom
+	// Terralith.DisplayName: Terralith
+	// TerralithSlash.DisplayName: Terralith Slash
+	// TerraRift.DisplayName: Terra Rift
+	// TerraShield.DisplayName: Terra Shield
+	// Terrasynthesis.DisplayName: Terrasynthesis
+	// Terravolver.DisplayName: Terravolver
+	// Terrifle.DisplayName: Terrifle
+	// TreeofLife.DisplayName: Tree of Life
+}
+
+Configs: {
+	TerraConfig: {
+		DisplayName: 设置
+
+		TerraBlade: {
+			Label: 泰拉刃重制
+			Tooltip: 更改泰拉之刃的攻击动画，重新进入世界才能生效
+		}
+	}
+}
