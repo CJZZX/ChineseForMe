@@ -1,0 +1,126 @@
+Items: {
+	Endless_Bone_Quiver: {
+		DisplayName: 无尽骨箭袋
+		Tooltip: ""
+	}
+
+	Endless_Chlorophyte_Quiver: {
+		DisplayName: 无尽叶绿箭袋
+		Tooltip: ""
+	}
+
+	Endless_Cursed_Quiver: {
+		DisplayName: 无尽诅咒箭袋
+		Tooltip: ""
+	}
+
+	Endless_Frostburn_Quiver: {
+		DisplayName: 无尽霜冻箭袋
+		Tooltip: ""
+	}
+
+	Endless_Holy_Quiver: {
+		DisplayName: 无尽圣箭袋
+		Tooltip: ""
+	}
+
+	Endless_Ichor_Quiver: {
+		DisplayName: 无尽灵液箭袋
+		Tooltip: ""
+	}
+
+	Endless_Luminite_Quiver: {
+		DisplayName: 无尽夜明箭袋
+		Tooltip: ""
+	}
+
+	Endless_Venom_Quiver: {
+		DisplayName: 无尽毒液箭袋
+		Tooltip: ""
+	}
+
+	EndlessChlorophytePouch: {
+		DisplayName: 无尽叶绿弹袋
+		Tooltip: ""
+	}
+
+	EndlessCrystalPouch: {
+		DisplayName: 无尽水晶子弹袋
+		Tooltip: ""
+	}
+
+	EndlessCursedPouch: {
+		DisplayName: 无尽诅咒弹袋
+		Tooltip: ""
+	}
+
+	EndlessExplodingPouch: {
+		DisplayName: 无尽爆破弹袋
+		Tooltip: ""
+	}
+
+	EndlessFlamingQuiver: {
+		DisplayName: 无尽烈焰箭袋
+		Tooltip: ""
+	}
+
+	EndlessGoldenPouch: {
+		DisplayName: 无尽金子弹袋
+		Tooltip: ""
+	}
+
+	EndlessHellfireQuiver: {
+		DisplayName: 无尽狱岩箭袋
+		Tooltip: ""
+	}
+
+	EndlessHighVelocityPouch: {
+		DisplayName: 无尽高射速子弹袋
+		Tooltip: ""
+	}
+
+	EndlessIchorPouch: {
+		DisplayName: 无尽灵液弹袋
+		Tooltip: ""
+	}
+
+	EndlessJesterQuiver: {
+		DisplayName: 无尽小丑之箭袋
+		Tooltip: ""
+	}
+
+	EndlessLuminitePouch: {
+		DisplayName: 无尽夜明弹袋
+		Tooltip: ""
+	}
+
+	EndlessMeteorPouch: {
+		DisplayName: 无尽流星弹袋
+		Tooltip: ""
+	}
+
+	EndlessNanoPouch: {
+		DisplayName: 无尽纳米弹袋
+		Tooltip: ""
+	}
+
+	EndlessPartyPouch: {
+		DisplayName: 无尽派对弹袋
+		Tooltip: ""
+	}
+
+	EndlessSilverPouch: {
+		DisplayName: 无尽银子弹袋
+		Tooltip: ""
+	}
+
+	EndlessUnholyQuiver: {
+		DisplayName: 无尽邪箭袋
+		Tooltip: ""
+	}
+
+	EndlessVenomPouch: {
+		DisplayName: 无尽毒液弹袋
+		Tooltip: ""
+	}
+}
