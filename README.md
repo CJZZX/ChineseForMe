@@ -10,3 +10,4 @@
 |[imkSushi的模组](https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071&searchtext=IMKSUSHI)|[imkSushi's Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071&searchtext=IMKSUSHI)|5.1.3|
 |[兑换币](https://steamcommunity.com/sharedfiles/filedetails/?id=2789445751&searchtext=IMKSUSHI)|[Tokens](https://steamcommunity.com/sharedfiles/filedetails/?id=2789445751&searchtext=IMKSUSHI)|1.6.1|
 |[古迹残存](https://steamcommunity.com/sharedfiles/filedetails/?id=2861542679&searchtext=remnant)|[Remnants](https://steamcommunity.com/sharedfiles/filedetails/?id=2861542679&searchtext=remnant)|1.5.24.2|
+|[MooMoo的终极悠悠球重制](https://steamcommunity.com/sharedfiles/filedetails/?id=2977808495&searchtext=moomoo)|[MooMoo's Ultimate Yoyo Revamp](https://steamcommunity.com/sharedfiles/filedetails/?id=2977808495&searchtext=moomoo)|0.2.9.6|
